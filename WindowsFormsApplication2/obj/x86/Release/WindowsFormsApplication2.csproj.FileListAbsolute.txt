@@ -1,7 +1,7 @@
 C:\Users\Marcos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\TibiaItemFinder.exe
 C:\Users\Marcos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\TibiaItemFinder.pdb
 C:\Users\Marcos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Form1.resources
-C:\Users\Marcos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Properties.Resources.resources
 C:\Users\Marcos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
 C:\Users\Marcos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\TibiaItemFinder.exe
 C:\Users\Marcos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\TibiaItemFinder.pdb
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\TibiaItemFinder.Properties.Resources.resources
