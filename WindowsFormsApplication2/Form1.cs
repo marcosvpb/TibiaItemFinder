@@ -13,10 +13,8 @@ namespace WindowsFormsApplication2
     {
         List<Items> _Items = new List<Items>();
         List<Items> _ItemsF = new List<Items>();
-        static int CountItem;
-        const string pathToFile = @"txt\ids.txt";
-
-           
+        Items Item = new Items(null,null);
+          
         public Form1()
         {
             InitializeComponent();
@@ -24,13 +22,7 @@ namespace WindowsFormsApplication2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            foreach (var myString in File.ReadAllLines(pathToFile))
-            {
-                var Splitted = myString.Split(';');
-                _Items.Add(new Items(Splitted[0].ToLower(), Splitted[1]));
-                CountItem++;
-            }
-            toolStripStatusLabel1.Text = CountItem.ToString() + " items entries.";
+            _Items = Item.LoadItems(); 
         }
 
         public void SearchItem(string Item)
