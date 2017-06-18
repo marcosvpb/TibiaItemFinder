@@ -1,0 +1,3103 @@
+Abyss Hammer;7414
+Abyssador's Lash;16206
+Acorn;10296
+Adventurer's Map;22107
+Adventurer's Stone;16277
+Advertisement Sign;17668
+Aggressive Fluid;14055
+Airtight Cloth;21870
+Albino Plate;19358
+All-Seeing Tapestry;23450
+Alloy Legs;21168
+Almanac of Magic;10025
+Amarie's Favourite Book;9143
+Amazon Armor;3394
+Amazon Disguise Kit;397
+Amazon Helmet;3393
+Amazon Shield;3437
+Amber Staff;7426
+Amphora;2893
+Amulet of Loss;3057
+Ancient Amulet;3025
+Ancient Amulet (Quest);22746
+Ancient Belt Buckle;24384
+Ancient Coin;24390
+Ancient Dream;20047
+Ancient Map;22705
+Ancient Rune;3235
+Ancient Shield;3432
+Ancient Stone;9632
+Ancient Tiara;3022
+Ancient Watch;24969
+Angelic Axe;7436
+Animal Cure;8819
+Animal Fetish;9236
+Animate Dead Rune;3203
+Ankh;3077
+Annihilation Bear;3213
+Anniversary Backpack;14674
+Anniversary Cake;14681
+Antidote Potion;7644
+Antler Talisman;22008
+Antlers;10297
+Ape Fur;5883
+Arbalest;5803
+Arcane Insignia;9219
+Arcane Staff;3341
+Arena Badge;23487
+Armor Rack;6111, 6112
+Armor Rack Kit;6114
+Arrow;3447
+Artist's Brush;14683
+Artist's Brush (with Paint);14686
+Artist's Canvas;14685
+Artist's Easel;14687, 14688
+Artist's Easel (with Canvas);14689, 14690
+Artist's Palette;14684
+Assassin Dagger;7404
+Assassin Doll;21962, 21963
+Assassin Star;7368
+Astral Glyph;24976
+Astral Shaper Rune;24960
+Astral Source;24975
+Atlas;6108
+Aubergine;11460
+Avalanche Rune;3161
+Axe;3274
+Axe Ring;3092
+Axe of Carving;23311
+Axe of Carving (Charged);23312
+Axe of Carving (Heavily Charged);23313
+Axe of Carving (Overcharged);23314
+Axe of Mayhem;23225
+Axe of Mayhem (Charged);23235
+Axe of Mayhem (Heavily Charged);23245
+Axe of Mayhem (Overcharged);23255
+Axe of Remedy;23271
+Axe of Remedy (Charged);23272
+Axe of Remedy (Heavily Charged);23273
+Axe of Remedy (Overcharged);23274
+Babel Swimmer;12736
+Baby Dragon;23442,23443
+Baby Rotworm;10026
+Baby Seal Doll;7183, 7184
+Backpack;2854
+Backpack of Holding;3253
+Badge of Glory;9218
+Badger Boots;22086
+Badger Fur;10299
+Badger Fur (Decoration);903
+Badly Made Piece of Cloth;21868
+Bag;2853
+Bag (Ahmet);235
+Bag of Apple Slices;12548
+Bag of Oriental Spices;10817, 10818
+Bag of Oriental Spices (Replica);23682
+Bag of Screws;9151
+Bait;939
+Baking Tray;3464
+Baking Tray (with Dough);8020
+Baking Tray (with Garlic Dough);8198
+Bale of White Cloth;142
+Bale of Yellowed Cloth;143
+Ball Gown;3570
+Bamboo Drawer;2465, 2466, 2467, 2468
+Bamboo Drawer Kit;2795
+Bamboo Leaves;12549
+Bamboo Stick;11445
+Bamboo Table;2350, 2351
+Bamboo Table Kit;2788
+Banana;3587
+Banana Chocolate Shake;9083
+Banana Sash;11511
+Banana Skin;3104
+Banana Staff;3348
+Bandana;5917
+Bar of Chocolate;6574
+Bar of Gold;14112
+Barbarian Axe;3317
+Barrel;2523
+Barrel (Brown);2519
+Barrel Kit;2793
+Barrel of Beer;404
+Basalt Fetish;17856
+Basalt Figurine;17857
+Basket;2855
+Basket (Puppies);14153
+Bast Skirt;3560
+Bat Decoration;6491
+Bat Wing;5894
+Battle Axe;3266
+Battle Hammer;3305
+Battle Shield;3413
+Battle Stone;11447
+Batwing Hat;9103
+Beach Backpack;5949
+Beach Bag;5950
+Bear Doll;3001
+Bear Paw;5896
+Beastslayer Axe;3344
+Beautiful Marble Statue;10429
+Beer Bottle;136
+Beetle Carapace;24381
+Beetle Necklace;10457
+Beetroot;8017
+Behemoth Claw;5930
+Behemoth Trophy;7396
+Bejeweled Ship's Telescope;9616, 9617, 9618, 9619
+Bell;15832
+Belted Cape;8044
+Berserk Potion;7439
+Berserker;7403
+Big Table;2314
+Big Table Kit;2785
+Bill;3216
+Birdcage;2976
+Birdcage (Dead);2975
+Birdcage Kit;2796
+Birthday Backpack;24395
+Birthday Cake;24396
+Black Bishop Token;3544
+Black Candle;9098, 9099
+Black Castle Token;3542
+Black Hood;9645
+Black Jade Cobra;11695
+Black King Token;3546
+Black Knight Doll;21435, 21436
+Black Knight Token;3543
+Black Pawn Token;3541
+Black Pearl;3027
+Black Pit Demon;23492
+Black Queen Token;3545
+Black Shield;3429
+Black Skull (Item);9056
+Black Token;3533
+Black Wool;11448
+Blacksteel Sword;7406
+Blade of Carving;23303
+Blade of Carving (Charged);23304
+Blade of Carving (Heavily Charged);23305
+Blade of Carving (Overcharged);23306
+Blade of Corruption;11693
+Blade of Mayhem;23223
+Blade of Mayhem (Charged);23233
+Blade of Mayhem (Heavily Charged);23243
+Blade of Mayhem (Overcharged);23253
+Blade of Remedy;23263
+Blade of Remedy (Charged);23364
+Blade of Remedy (Heavily Charged);23265
+Blade of Remedy (Overcharged);23266
+Blank Paper;2813
+Blank Poetry Parchment;172
+Blank Rune;3147
+Blazing Bone;16131
+Blessed Ankh;3214
+Blessed Sceptre;7429
+Blessed Shield;3423
+Blessed Steak;9086
+Blessed Wooden Stake;5942
+Blob Bomb;13976
+Blood Crystal;8453
+Blood Crystal (Charged);8225
+Blood Goblet;8531
+Blood Herb;3734
+Blood Orb;3251
+Blood Preservation;11449
+Blood Skull;8532
+Blood Tincture in a Vial;18928
+Blood of the Mountain (Item);25361
+Bloodkiss Flower;9241
+Bloody Dwarven Beard;17827
+Bloody Edge;7416
+Bloody Pincers;9633
+Blue Backpack;2869
+Blue Bag;2861
+Blue Bed Kit;834
+Blue Christmas Bundle;6507
+Blue Christmas Garland;6504
+Blue Crystal Shard;16119
+Blue Crystal Splinter;16124
+Blue Gem;3041
+Blue Legs;645
+Blue Note;3236
+Blue Piece of Cloth;5912
+Blue Pillow;2394
+Blue Pit Demon;23491
+Blue Pollen;21089
+Blue Powder;6551
+Blue Robe;3567
+Blue Rose;3659
+Blue Sphere;23541
+Blue Tapestry;2659
+Blue Tome;2850
+Blueberry;3588
+Blurred Transcript;24873
+Boggy Dreads;9667
+Bola;17809
+Bolfrim's Golden Bug Trophy;14672
+Bolt;3446
+Bone;3115
+Bone Club;3337
+Bone Fetish;17831
+Bone Key;2973
+Bone Shield;3441
+Bone Shoulderplate;10404
+Bone Sword;3338
+Bone Toothpick;24380
+Bonebeast Trophy;10244
+Bonebreaker;7428
+Bonecarving Knife;17830
+Bonelord Eye;5898
+Bonelord Helmet;3408
+Bonelord Shield;3418
+Bones of Zorvorax;24942
+Bonfire Amulet;9301
+Bongo Drum;2951
+Bony Tail;10277
+Book (CGB);401
+Book (Draconia);6533
+Book (Gemmed);2842
+Book of Lies;22755
+Book of Necromantic Rituals;10320
+Book of Orc Language;12675
+Book of Prayers;9646
+Bookcase;6367, 6368, 6369, 6370
+Bookcase (Venore);17870, 17871
+Bookcase Kit;6372
+Bookworm Doll;18343, 18344
+Boots of Haste;3079
+Boots of Homecoming;22773
+Boots of Homecoming (Used);22774
+Boots of Waterwalking;3246
+Botany Almanach;11699
+Bottle;2875
+Bottle of Airtight Gloo;21876
+Bottle of Bug Milk;8758
+Bottle of Gloo;21803
+Bottle of Glooth Wine;21145
+Bottle of Tibian Wine;24948
+Bottle of Whisper Beer;6106
+Bow;3350
+Bow of Carving;23327
+Bow of Carving (Charged);23328
+Bow of Carving (Heavily Charged);23329
+Bow of Carving (Overcharged);23330
+Bow of Mayhem;23229
+Bow of Mayhem (Charged);23239
+Bow of Mayhem (Heavily Charged);23250
+Bow of Mayhem (Overcharged);23259
+Bow of Remedy;23287
+Bow of Remedy (Charged);23288
+Bow of Remedy (Heavily Charged);23289
+Bow of Remedy (Overcharged);23290
+Bowl;2902
+Bowl (Gold);3476
+Bowl (Green);3475
+Bowl (Silver);3474
+Bowl of Evergreen Flowers;8763
+Bowl of Glooth Soup;21144
+Bowl of Tea Leaves;20190
+Bowl of Terror Sweat;20204
+Bowl with Sacred Water;11333
+Box (Pies);119
+Branch;7752, 7772
+Brandon's Wedding Ring;21745
+Brass Armor;3359
+Brass Helmet;3354
+Brass Legs;3372
+Brass Shield;3411
+Bread;3600
+Bricklayers' Kit;7785
+Bright Sword;3295
+Brimstone Fangs;11702
+Brimstone Shell;11703
+Broadsword;3301
+Brocade Backpack;8860
+Brocade Bag;8861
+Brocade Tapestry;23725
+Broccoli;11461
+Broken Amulet;3080
+Broken Crossbow;11451
+Broken Draken Mail;11660
+Broken Dream;20029
+Broken Gladiator Shield;9656
+Broken Halberd;10418
+Broken Helmet;11453
+Broken Key Ring;11652
+Broken Opticording Sphere;23573
+Broken Ring of Ending;12737
+Broken Shamanic Staff;11452
+Broken Slicer;11661
+Broken Throwing Axe;17851
+Broken Visor;20184
+Broken Wedding Ring;9593
+Broken Wooden Shield;21401
+Bronze Amulet;3056
+Bronze Cup of Honour;9208
+Bronze Gear Wheel;21755
+Bronze Goblet;5807
+Bronze Medal;9217
+Bronze Necklace;3009
+Bronze Prison Key;20272
+Bronze Trophy of Excellence;9214
+Bronze Warrior Trophy;9211
+Broom;3454
+Brown Bread;3602
+Brown Crystal Splinter;16123
+Brown Flask;2885
+Brown Mushroom;3725
+Brown Piece of Cloth;5913
+Brown Pit Demon;23489
+Brutetamer's Staff;7379
+Brutus Bloodbeard's Hat;6099
+Bucket;2873
+Bucket Filled With Chalk;20054
+Bucket Filled With Gravel;20053
+Bucket Full of Mortar;20170
+Bucket of Bog Water;12722
+Buckle;17829
+Bug Meat;24382
+Buggy Backpack;14249
+Building Plans for a Ship;399
+Bulb of Garlic;8197
+Bullseye Potion;7443
+Bunch of Ripe Rice;10328
+Bunch of Sugar Cane;5466
+Bunch of Troll Hair;9689
+Bunch of Wheat;3605
+Bunch of Winterberries;12252
+Bundle of Cursed Straw;9688
+Bundle of Rags;9191
+Bunnyslippers;3553
+Burning Heart;3240
+Burnt Out Devourer Core;23687
+Burst Arrow;3449
+Butcher's Axe;7412
+CM Token;8737, 14670
+Cake Backpack;20347
+Cake Cabinet;14754, 14755
+Cake Cabinet Kit;14756
+Cake Tapestry;20350
+Calibrated Indicator Gauge;21757
+Calopteryx Cape;14086
+Camouflage Backpack;2872
+Camouflage Bag;2864
+Can of Oil;17513
+Candelabrum;2911
+Candle Made of Human Tallow;18931
+Candlestick;2917, 2918, 2919
+Candy;6569
+Candy Cane;3599
+Canopy Bed Kit;17972
+Cape;3565
+Captured Wolf;12369
+Carafe of Water Binding;22692
+Carapace Shield;14088
+Carlin Sword;3283
+Carniphila Seeds;10300
+Carrion Worm Fang;10275
+Carrot;3595
+Carrot Cake;9087
+Carrot on a Stick;12311
+Carrying Device;9698
+Carved Stone Table;2346, 2347
+Case of Rust Bugs;350
+Cask of Brown Ale (Item);8774
+Castle Shield;3435
+Cat's Paw;5479
+Cat in a Basket;23451,23452
+Cateroide's Doll;22151
+Cateroide's Doll (Activated);22152
+Cauliflower;11462
+Cave Turnip;24383
+Cavebear Skull;12316
+Ceiron's Waterskin;5938, 5939
+Centipede Leg;10301
+Ceremonial Ankh;6561
+Ceremonial Mask;3395
+Certificate;6498
+Chain Armor;3358
+Chain Bolter;8022
+Chain Helmet;3352
+Chain Legs;3558
+Chameleon Rune;3178
+Champion's Cup;9206
+Chaos Mace;7427
+Chaos Matter;9157
+Charged Ghost Charm;8827
+Charmer's Tiara;3407
+Chayenne's Magical Key;14682
+Cheese;3607
+Cheese Cookie;11685
+Cheese Cutter;17817
+Cheesy Figurine;17818
+Cherry;3590
+Chest;2472, 2480, 2481, 2482
+Chest of Drawers;2431, 2432, 2433, 2434
+Chicken Feather;5890
+Chimney;7857, 7859, 7861, 7863
+Chimney (Lit);7856, 7858, 7860, 7862
+Chimney Kit;7864
+Chocolate Cake;8019
+Chocolatey Dragon Scale Legs;24402
+Chopper of Carving;23315
+Chopper of Carving (Charged);23316
+Chopper of Carving (Heavily Charged);23317
+Chopper of Carving (Overcharged);23318
+Chopper of Mayhem;23226
+Chopper of Mayhem (Charged);23236
+Chopper of Mayhem (Heavily Charged);23246
+Chopper of Mayhem (Overcharged);23256
+Chopper of Remedy;23275
+Chopper of Remedy (Charged);23276
+Chopper of Remedy (Heavily Charged);23277
+Chopper of Remedy (Overcharged);23278
+Christmas Branch;6488, 6489
+Christmas Card;6387
+Christmas Cookie Tray;20310
+Christmas Garland;6502
+Christmas Present (Blue);6510
+Christmas Present (Green);6509
+Christmas Present (Red);6505
+Christmas Present Bag;6496
+Christmas Token;6526
+Christmas Tree Package;2812
+Christmas Wreath;6501
+Cigar;141
+Claw of 'The Noxious Spawn';9394
+Clay Lump;10422
+Clay Pot;22642
+Clay Statue;10424
+Cleaver;3471
+Clerical Mace;3311
+Cliff Strider Claw;16134
+Closed Silvered Trap;22074
+Closed Trap;3481
+Club;3270
+Club Ring;3093
+Club of the Fury;9385
+Cluster of Solace;20062
+Coal;12600
+Coal Basin Kit;2806
+Coal Eyes;24978
+Coat;3562
+Cobra Crown;11674
+Cobra Tongue;9634
+Cobrafang Dagger;3238
+Cockroach Leg;7882
+Cocktail Glass;9232
+Coconut;3589
+Coconut Shoes;9017
+Coconut Shrimp Bake;11584
+Collar of Blue Plasma;23526,23542
+Collar of Green Plasma;23543
+Collar of Red Plasma;23544
+Coloured Egg (Blue);6543
+Coloured Egg (Green);6544
+Coloured Egg (Purple);6545
+Coloured Egg (Red);6542
+Coloured Egg (Yellow);6541
+Colourful Feather;11514
+Colourful Feathers;25089
+Comb;5946
+Combat Knife;3292
+Compass;10302
+Complete Opticording Sphere;23572
+Composite Hornbow;8027
+Compound Eye;14083
+Compromising Letter;7935
+Concentrated Demonic Blood;6558
+Condensed Energy;23501
+Contract;129
+Control Unit;21186
+Convince Creature Rune;3177
+Cookbook;3234
+Cookie;3598
+Copper Key;2970
+Copper Prison Key;20271
+Copper Shield;3430
+Copper Token;22722
+Copper Valve;21758
+Coral Brooch;24391
+Coral Comb;5945
+Corncob;3597
+Corned Fish;10218
+Cornucopia;3103
+Corrupted Flag;10409
+Costume Bag (Common);653
+Costume Bag (Deluxe);655
+Costume Bag (Retro);24949
+Costume Bag (Uncommon);654
+Council Certificate;19074
+Countess Sorrow's Frozen Tear;6536
+Cowbell;21204
+Cowtana;21177
+Crab Pincers;10272
+Cracked Alabaster Vase;24385
+Crackling Egg;23684
+Cranial Basher;7415
+Crate;2471
+Crate (Swapped);118
+Crate (Wine);117
+Crawler Head Plating;14079
+Cream Cake;6393
+Crest of the Deep Seas;21892
+Crimson Crest Mushroom;21768
+Crimson Rose;21954
+Crimson Sword;7385
+Crimson Sword (Uzgod);860
+Crocodile Boots;3556
+Crocodile Steak;10219
+Crossbow;3349
+Crossbow of Carving;23331
+Crossbow of Carving (Charged);233232
+Crossbow of Carving (Heavily Charged);23333
+Crossbow of Carving (Overcharged);23334
+Crossbow of Mayhem;23230
+Crossbow of Mayhem (Charged);23240
+Crossbow of Mayhem (Heavily Charged);23249
+Crossbow of Mayhem (Overcharged);23260
+Crossbow of Remedy;23291
+Crossbow of Remedy (Charged);23292
+Crossbow of Remedy (Heavily Charged);23293
+Crossbow of Remedy (Overcharged);23294
+Crowbar;3304
+Crown;3011
+Crown Armor;3381
+Crown Backpack;9605
+Crown Helmet;3385
+Crown Legs;3382
+Crown Shield;3419
+Crude Horn of Bone;20055
+Crude Horn with Mouthpiece;20056
+Crude Umbral Axe;20070
+Crude Umbral Blade;20064
+Crude Umbral Bow;20082
+Crude Umbral Chopper;20073
+Crude Umbral Crossbow;20085
+Crude Umbral Hammer;20079
+Crude Umbral Mace;20076
+Crude Umbral Slayer;20067
+Crude Umbral Spellbook;20088
+Crusader Helmet;3391
+Crystal Arrow;3239
+Crystal Backpack;16100
+Crystal Ball;3076
+Crystal Bone;23521
+Crystal Boots;10200
+Crystal Coin;3043
+Crystal Crossbow;16163
+Crystal Key;2971
+Crystal Lamp;16094
+Crystal Mace;3333
+Crystal Necklace;3008
+Crystal Pedestal;9063, 9064, 9065, 9066
+Crystal Ring;3007
+Crystal Ring (Eleonore);6093
+Crystal Sword;7449
+Crystal Table;9062
+Crystal Table Kit;9061
+Crystal Wand;3068
+Crystal of Balance;9028
+Crystal of Focus;9027
+Crystal of Power;9067
+Crystalline Armor;8050
+Crystalline Arrow;15793
+Crystalline Axe;16161
+Crystalline Spikes;16138
+Crystalline Sword;16160
+Cuckoo Clock;2664, 2668
+Cucumber;8014
+Cultish Mask;9638
+Cultish Robe;9639
+Cultish Symbol;11455
+Cup of Cowcoa;21184, 21187
+Cure Poison Rune (Item);3153
+Cursed Gold;21746
+Cursed Shoulder Spikes;10410
+Cyan Crystal Fragment;16125
+Cyclops Toe;9657
+Cyclops Trophy;7398
+Dagger;3267
+Damaged Helmet;3226
+Damaged Logbook;6124
+Damaged Steel Helmet;5924
+Damselfly Eye;17463
+Damselfly Wing;17458
+Dangerous Proto Matter;23515
+Daramian Axe;3329
+Daramian Mace;3327
+Daramian Waraxe;3328
+Dark Armor;3383
+Dark Essence;9238
+Dark Helmet;3384
+Dark Lord's Cape;8037
+Dark Mushroom;3728
+Dark Parquet;23719
+Dark Rosary;10303
+Dark Shield;3421
+Dark Trinity Mace;8099
+Dark Wizard's Crown;22153
+Dark Wizard's Crown (Activated);22154
+Dead Bog Frog (Quest);22693
+Dead Rat (Oramond);21850
+Dead Weight;20202
+Deadeye Devious' Eye Patch;6102
+Death Gaze;22758
+Death Ring;6299
+Deathstrike's Snippet;16136
+Decorative Ribbon;16155
+Deed of Ownership;7866
+Deep Crystal;9240
+Deepling Axe;13991
+Deepling Backpack;14248
+Deepling Breaktime Snack;14011
+Deepling Claw;14044
+Deepling Filet;14085
+Deepling Guard Belt Buckle;14010
+Deepling Ridge;14041
+Deepling Scales;14017
+Deepling Squelcher;14250
+Deepling Staff;13987
+Deepling Warts;14012
+Deeptags;14013
+Deer Trophy;7397
+Delany's Golden Bug Trophy;14671
+Delicate Pan;20048
+Delicate Vase;12478
+Demon Armor;3388
+Demon Backpack;9601
+Demon Dust;5906
+Demon Helmet;3387
+Demon Horn;5954
+Demon Infant;12178, 12179, 12180, 12181, 12182
+Demon Legs;3389
+Demon Shield;3420
+Demon Trophy;7393
+Demonbone;7431
+Demonbone Amulet;3019
+Demonic Candy Ball;11587
+Demonic Essence;6499
+Demonic Finger;12541
+Demonic Skeletal Hand;9647
+Demonic Tapestry;20278
+Demonrage Sword;7382
+Demonwing Axe;8098
+Depth Calcei;13997
+Depth Galea;13995, 14258
+Depth Lorica;13994
+Depth Ocrea;13996
+Depth Scutum;13998
+Destroy Field Rune;3148
+Devil Helmet;3356
+Devourer Core;23686
+Diamond Arrow;25757
+Diamond Sceptre;7387
+Diapason;12547
+Didgeridoo;2965
+Die;5792, 5793, 5794, 5795, 5796, 5797
+Dinky Moss Floret;21853
+Dinky Moss Floret Garland;21856
+Dirty Fur;3105
+Dirty Turban;11456
+Disgusting Trophy;10421
+Disintegrate Rune;3197
+Divine Plate;8057
+Djinn's Lamp;3247
+Djinn Blade;3339
+Document of the Follower;768
+Document of the Leader;770
+Document of the Officer;769
+Dog Collar;14156
+Dog House;23697, 23703, 23708, 23709
+Doll;2991
+Doll of Durin The Almighty;14764, 14765
+Doll of Durin The Almighty (Replica);23679
+Double Axe;3275
+Doublet;3379
+Downy Feather;11684
+Dowser;19110
+Drachaku;10391
+Dracola's Eye;6546
+Dracoyle Statue;9034, 9035, 9039, 9040
+Dragha's Spellbook;6120
+Dragon's Tail;11457
+Dragon Backpack;10326
+Dragon Blood;24937
+Dragon Claw;5919
+Dragon Crown;24967
+Dragon Egg Shells;22659
+Dragon Eye;16262, 16263
+Dragon Eye (Replica);22027
+Dragon Goblet;10477, 12572
+Dragon Ham;3583
+Dragon Hammer;3322
+Dragon Lance;3302
+Dragon Lord Trophy;7399
+Dragon Necklace;3085
+Dragon Priest's Wandtip;10444
+Dragon Robe;8039
+Dragon Scale Boots;10201
+Dragon Scale Helmet;3400
+Dragon Scale Legs;3363
+Dragon Scale Mail;3386
+Dragon Shield;3416
+Dragon Slayer;7402
+Dragon Statue (Item);10212, 10213, 10214, 10215
+Dragon Statue Kit;10216
+Dragon Tapestry;10347
+Dragon Throne;10286, 10287
+Dragon Throne Kit;10288
+Dragon Tongue;24938
+Dragonbone Staff;7430
+Dragonfetish;3206
+Dragonfruit;11682
+Draken Boots;4033
+Draken Doll;12043, 12044
+Draken Sulphur;11658
+Draken Trophy;10398
+Draken Wristbands;11659
+Drakinata;10388
+Draptor Scales;12309
+Drawer Kit;2789
+Dread Doll;12904, 12905
+Dreaded Cleaver;7419
+Dream Junk;20320
+Dream Matter;20063
+Dream Nebuliser;20049
+Dream Sand;20030
+Dream Warden Claw;20275
+Dream Warden Mask;20276
+Dresser;2441, 2442, 2443, 2444
+Dresser Kit;2790
+Drill Bolt;16142
+Drowned Seaman's Skull;21770
+Drum;2952
+Dry Piece of Wood;11982
+Dubious Piece of Cloth;12552
+Dung Ball;14225
+Dung Ball (Quest);14753
+Dwarf Disguise Kit;7865
+Dwarven Armor;3397
+Dwarven Axe;3323
+Dwarven Beard;5900
+Dwarven Helmet;3396
+Dwarven Legs;3398
+Dwarven Pickaxe;4845
+Dwarven Ring;3097
+Dwarven Shield;3425
+Eagle Shield;3438
+Earflap;17819
+Earth Arrow;774
+Earth Barbarian Axe;784
+Earth Blacksteel Sword;782
+Earth Clerical Mace;789
+Earth Cranial Basher;791
+Earth Crystal Mace;790
+Earth Dragon Slayer;783
+Earth Headchopper;787
+Earth Heroic Axe;786
+Earth Knight Axe;785
+Earth Mystic Blade;781
+Earth Orcish Maul;792
+Earth Relic Sword;780
+Earth Spike Sword;779
+Earth War Axe;788
+Earth War Hammer;793
+Earthborn Titan Armor;8054
+Earthheart Cuirass;22521
+Earthheart Hauberk;22522
+Earthheart Platemail;22523
+Earthmind Raiment;22535
+Earthsoul Tabard;22531
+Easel Kit;14741
+Easily Inflammable Sulphur;124
+Eclesius' Sandals;9131
+Ectoplasm Container;131
+Ectoplasmic Sushi;11681
+Eerie Song Book;20140
+Egg;3606
+Egg of The Many;9606
+Eggs of a Sacred Snake;21469
+Elane's Crossbow;5947
+Elder Bonelord Tentacle;10276
+Elemental Crystal;9251
+Elemental Spikes;12803
+Elethriel's Elemental Bow;8030
+Elite Draken Helmet;11689
+Elite Draken Mail;11651
+Elven Amulet;3082
+Elven Astral Observer;11465
+Elven Brooch;3005
+Elven Hoof;18994
+Elven Legs;3401
+Elven Mail;3399
+Elven Poetry Book;4844
+Elven Scouting Glass;11464
+Elven Trophy;9224
+Elven Vase;2879
+Elven Vial;18991
+Elvenhair Rope;646
+Elvish Bow;7438
+Elvish Talisman;9635
+Emerald Bangle;3010
+Emerald Sword;8102
+Emergency Kit;12128
+Empty Beer Bottle;138
+Empty Birdcage;23812
+Empty Flower Pot;306
+Empty Goldfish Bowl;5928
+Empty Jug;7243
+Empty Potion Flask (Large);284
+Empty Potion Flask (Medium);283
+Empty Potion Flask (Small);285
+Empty Receptacle;19108
+Empty Storage Flask;19085
+Enchanted Chicken Wing;5891
+Enchanted Spear;7367
+Enchanted Staff;3321
+Enchanted Werewolf Amulet;22061, 22134
+Enchanted Werewolf Helmet (Axe);22088, 22113, 22114, 22115, 22116, 22127, 22128, 22129, 22130, 22132
+Enchanted Werewolf Helmet (Club);22088, 22113, 22114, 22115, 22116, 22127, 22128, 22129, 22130, 22132
+Enchanted Werewolf Helmet (Distance);22088, 22113, 22114, 22115, 22116, 22127, 22128, 22129, 22130, 22132
+Enchanted Werewolf Helmet (Magic);22088, 22113, 22114, 22115, 22116, 22127, 22128, 22129, 22130, 22132
+Enchanted Werewolf Helmet (Sword);22088, 22113, 22114, 22115, 22116, 22127, 22128, 22129, 22130, 22132
+Encyclopedia (Replica);23678
+Energy Bar;23535
+Energy Barbarian Axe;801
+Energy Blacksteel Sword;797
+Energy Bomb Rune;3149
+Energy Clerical Mace;806
+Energy Cranial Basher;808
+Energy Crystal Mace;807
+Energy Dragon Slayer;798
+Energy Drink;23545
+Energy Field Rune;3164
+Energy Headchopper;804
+Energy Heroic Axe;803
+Energy Knight Axe;802
+Energy Mystic Blade;796
+Energy Net;9150
+Energy Orcish Maul;809
+Energy Relic Sword;795
+Energy Ring;3051
+Energy Soil;945
+Energy Spike Sword;794
+Energy Wall Rune;3166
+Energy War Axe;805
+Energy War Hammer;810
+Engraved Wedding Ring;9585
+Envenomed Arrow;16143
+Epaminondas Doll;9144, 9145
+Epee;3326
+Essence of Dread;20138
+Essence of Wishful Thinking;20139
+Essence of a Bad Dream;10306
+Eternal Flames;946
+Ethno Coat;8064
+Evilina;12578, 12582
+Ewer (Blue);3479
+Ewer (Golden);3478
+Ewer (Green);3480
+Ewer (Silver);3477
+Ewer with Holy Water;21466
+Execowtioner Axe;21176
+Execowtioner Mask;21201
+Executioner;7453
+Exotic Flowers;2988
+Expedition Backpack;10324
+Expedition Bag;10325
+Exploding Cookie;130
+Explorer Brooch;4871
+Explosion Rune;3200
+Exquisite Silk;11545
+Exquisite Wood;11547
+Eye Patch;6098
+Eye Pod;20279
+Eye of Corruption;11671
+Eye of a Deepling;12730
+Eye of a Weeper;16132
+Eye of the Storm;19369
+Fake Dwarven Beard;170
+Fake Rabbit's Foot;12174
+Faked Label;6086
+Family Brooch (Dwarven);4834
+Family Signet Ring;406
+Fan Club Membership Card;9391
+Fan Doll of King Tibianus;9389
+Fanfare;2955
+Farmer's Avenger;9386
+Feather Headdress;3406
+Feedbag;21292
+Fern;3737
+Ferocious Cabinet;23421,23422
+Ferocious Chair;23407,23408,23409,23410
+Ferocious Table;23411,23414
+Ferocious Trunk;23423,23424,23425,23426
+Ferumbras' Amulet;22767
+Ferumbras' Candy Hat;24397
+Ferumbras' Hat;5903
+Ferumbras' Mana Keg;22769
+Ferumbras' Mana Keg (Used);22770
+Ferumbras' Staff (Blunt);22764
+Ferumbras' Staff (Enchanted);22766
+Ferumbras' Staff (Failed);22765
+Ferumbras' Teddy;22775
+Ferumbras' Teddy Santa;22879
+Ferumbras Doll;10798, 10799
+Fiery Barbarian Axe;665
+Fiery Blacksteel Sword;663
+Fiery Clerical Mace;670
+Fiery Cranial Basher;672
+Fiery Crystal Mace;671
+Fiery Dragon Slayer;664
+Fiery Headchopper;668
+Fiery Heart;9636
+Fiery Heroic Axe;667
+Fiery Knight Axe;666
+Fiery Mystic Blade;662
+Fiery Orcish Maul;673
+Fiery Rainbow Shield;8078
+Fiery Relic Sword;661
+Fiery Spike Sword;660
+Fiery War Axe;669
+Fiery War Hammer;674
+File AH-X17L89;403
+Filled Carrying Device;9699
+Filled Cup;20210
+Filled Elven Vial;18992
+Filled Glooth Converter;21767
+Filled Jalapeño Peppers;9085
+Filled Receptacle;19109
+Filthy Bunnyslippers;24409
+Fine Sulphur;7247
+Fine Vase;227, 228
+Fir Cone;19111
+Fire Axe;3320
+Fire Bomb Rune;3192
+Fire Bug;5467
+Fire Field Rune;3188
+Fire Mushroom;3731
+Fire Sword;3280
+Fire Wall Rune;3190
+Fireball Rune;3189
+Fireborn Giant Armor;8053
+Fireheart Cuirass;22518
+Fireheart Hauberk;22519
+Fireheart Platemail;22520
+Firemind Raiment;22534
+Firesoul Tabard;22530
+Firewalker Boots;9018, 9019
+Fireworks Rocket;6576
+Firlefanz;896
+Fish;3578
+Fish Fin;5895
+Fish Flakes;9109
+Fish Tail;5951
+Fish Tank;23691
+Fishing Rod;3483
+Fishnapped Goldfish;7936
+Fist on a Stick;12546
+Flaming Arrow;763
+Flash Arrow;761
+Flask of Chitin Dissolver;14052
+Flask of Cough Syrup;4828
+Flask of Crown Polisher;10009
+Flask of Dissolved Chitin;14053
+Flask of Embalming Fluid;11466
+Flask of Extra Greasy Oil;10189
+Flask of Greasy Red Oil;22661
+Flask of Medusa's Ointment;21506
+Flask of Plant Poison;11364
+Flask of Poison;10183
+Flask of Rust Remover;9016
+Flask of Warrior's Sweat;5885
+Flask of Wasp Poison;12784
+Flask with Beaver Bait;9843
+Flask with Magical Oil;9112
+Flask with Oil and Blood;21505
+Flask with Paint;7253
+Flawless Ice Crystal;942
+Flexible Dragon Scale;11550
+Flintstone;12806
+Flour;3603
+Flower Bouquet;649
+Flower Bowl;2983
+Flower Dress;9015
+Flower Wreath;9013
+Flute Made of a Single Bone;18932
+Focus Cape;8043
+Folded Void Carpet;23536
+Food Crate;8772
+Food Matrix Crystal;8829
+Forbidden Fruit;24966
+Forbidden Tome;24971
+Fork;3467
+Formula for a Memory Potion;9188
+Four-Leaf Clover;14143
+Foxtail;14142
+Framed Birthday Card;24950
+Frazzle Skin;20199
+Frazzle Tongue;20198
+Frazzlemaw Santa;20308
+Fresh Mushroom Beer;15794
+Friendship Amulet;9802, 9803
+Friendship Amulet (Replica);19153
+Frost Charm;7289
+Frost Giant Pelt;9658
+Frostbite Herb;7248
+Frostheart Cuirass;22527
+Frostheart Hauberk;22528
+Frostheart Platemail;22529
+Frostmind Raiment;22537
+Frostsoul Tabard;22530
+Frosty Ear of a Troll;9648
+Frosty Heart;9661
+Frozen Heart;12041, 12042
+Frozen Heart (Replica);19156
+Frozen Plate;8059
+Frozen Starlight;3249
+Frozen Time;24970
+Full Gas Bag;21881
+Full Storage Flask;19086
+Funeral Urn;4847
+Fungus Powder;21837
+Fur Armor;22085
+Fur Backpack;7342
+Fur Bag;7343
+Fur Boots;7457
+Fur Cap;7458
+Furious Frock;19391
+Furry Club;7432
+Garlic Bread;8194
+Garlic Cookie;8199
+Garlic Necklace;3083
+Gas Bag;21880
+Gauze Bandage;9649
+Gear Crystal;9655
+Gear Wheel;8775
+Gearwheel Chain;21170
+Gem Holder;3223
+Gemmed Figurine;24392
+Geomancer's Robe;11458
+Geomancer's Staff;11463
+Ghastly Dragon Head;10449
+Ghost's Tear;8746
+Ghost Charm;8822
+Ghost Duster;12123
+Ghostly Tissue;9690
+Ghostsilver Lantern;23734, 23738
+Ghoul Snack;11467
+Giant Ape's Hair;4832
+Giant Crab Pincer;12317
+Giant Eye;10280
+Giant Pacifier;21199
+Giant Screwdriver;9148
+Giant Shimmering Pearl (Brown);282
+Giant Shimmering Pearl (Green);281
+Giant Shrimp;12318
+Giant Smithhammer;3208
+Giant Sword;3281
+Gilded Birthday Cup;24951
+Gill Coat;16105
+Gill Gugel;16104
+Gill Legs;16106
+Gill Necklace;16108
+Gingerbread Recipe;6522
+Gingerbreadman;6500
+Girl's Dress;8048
+Girlish Hair Decoration;11443
+Glacial Rod;16118
+Glacier Amulet;815
+Glacier Kilt;823
+Glacier Mask;829
+Glacier Robe;824
+Glacier Shoes;819
+Gland;8143
+Glass Tube;21766
+Glass of Goo;19371
+Glimmering Soil;941
+Glistening Bone;23522
+Glob of Acid Slime;9054
+Glob of Glooth;21182
+Glob of Grease;9147
+Glob of Mercury;9053
+Glob of Tar;9055
+Globe;2979
+Globe Kit;2797
+Gloom Wolf Fur;22007
+Glooth Amulet;21183
+Glooth Axe;21180
+Glooth Backpack;21295
+Glooth Bag;21203
+Glooth Blade;21179
+Glooth Cape;21164
+Glooth Capsule;21814
+Glooth Club;21178
+Glooth Converter;21761
+Glooth Farina;21841
+Glooth Glider Blueprint;21897
+Glooth Glider Casing;21901
+Glooth Glider Crank;21902
+Glooth Glider Gear Wheel;21906
+Glooth Glider Hinge;21905
+Glooth Glider Tubes and Wires;21899
+Glooth Injection Tube;21103
+Glooth Plasma;21876
+Glooth Sandwich;21143
+Glooth Spear;21158
+Glooth Steak;21146
+Glooth Vinegar;21872
+Glooth Whip;21172
+Glorious Axe;7454
+Glow Wine;16154
+Glowing Carrot;24977
+Glowing Mushroom;16097
+Glutton's Mace;9373
+Gnomevil's Hat;16205
+Gnomish Extraction Crystal;15696
+Gnomish Supply Package;15698
+Gnomish Voucher Type CA1;16256
+Gnomish Voucher Type CA2;16257
+Gnomish Voucher Type CB;16255
+Gnomish Voucher Type MA1;16253
+Gnomish Voucher Type MA2;16254
+Gnomish Voucher Type MB;16252
+Goat Grass;3674
+Goblin Bone Key;22682
+Goblin Ear;11539
+Goblin Statue;2030, 2046, 2047, 2048
+Goblin Statue Kit;2804
+God Flowers;2981
+Gold Coin;3031
+Gold Ingot;9058
+Gold Medal;9215
+Gold Nugget;3040
+Gold Ring;3063
+Gold Token;22721
+Golden Amulet;3013
+Golden Armor;3360
+Golden Backpack;2871
+Golden Bag;2863
+Golden Boots;3555
+Golden Can of Oil;12801
+Golden Dragon Tapestry;23723
+Golden Fafnar Trophy;9626
+Golden Falcon;8148, 8175
+Golden Fir Cone;12550
+Golden Goblet;5805
+Golden Helmet;3365
+Golden Hyena Pendant;12543
+Golden Key;2972
+Golden Legs;3364
+Golden Lotus Brooch;21974
+Golden Mug;2903
+Golden Newspaper;8153, 8176
+Golden Newspaper (Replica);23681
+Golden Prison Key;20273
+Golden Quartz Powder;22708
+Golden Raid Token;19082
+Golden Rune Emblem (Animate Dead);11614
+Golden Rune Emblem (Avalanche);11624
+Golden Rune Emblem (Chameleon);11634
+Golden Rune Emblem (Desintegrate);11632
+Golden Rune Emblem (Destroy Field);11640
+Golden Rune Emblem (Energy Bomb);11628
+Golden Rune Emblem (Energy Wall);11636
+Golden Rune Emblem (Explosion);11608
+Golden Rune Emblem (Fire Bomb);11644
+Golden Rune Emblem (Fire Field);11650
+Golden Rune Emblem (Fireball);11618
+Golden Rune Emblem (Great Fireball);11616
+Golden Rune Emblem (Heavy Magic Missile);11606
+Golden Rune Emblem (Holy Missile);11626
+Golden Rune Emblem (Icicle);11622
+Golden Rune Emblem (Light Magic Missile);11648
+Golden Rune Emblem (Magic Wall);11612
+Golden Rune Emblem (Paralyze);11630
+Golden Rune Emblem (Poison Bomb);11646
+Golden Rune Emblem (Soulfire);11638
+Golden Rune Emblem (Sudden Death);11610
+Golden Rune Emblem (Thunderstorm);11620
+Golden Rune Emblem (Ultimate Healing);11604
+Golden Rune Emblem (Wild Growth);11642
+Golden Scorpion Pendant;12542
+Golden Sickle;3306
+Golden Talon;24968
+Golden Trophy of Excellence;9212
+Golden Warrior Trophy;9209
+Goldfish Bowl;5929
+Golem Blueprint;9247
+Golem Disassembler;9235
+Golem Head;9255
+Golem Part;9233
+Golem Wrench;16251
+Goo Shell;19372
+Gooey Mass;14172
+Gooey Substance;14051
+Goosebump Leather;20205
+Gourd;22651
+Grapes;3592
+Grasshopper Legs;14087
+Grave Flower;3661
+Gravel and Chalk in a Bucket;20169
+Great Axe;3303
+Great Fireball Rune;3191
+Great Health Potion;239
+Great Mana Potion;238
+Great Shield;3422
+Great Spirit Potion;7642
+Green Backpack;2865
+Green Bag;2857
+Green Balloons;6577
+Green Bed Kit;831
+Green Christmas Bundle;6508
+Green Crystal Fragment;16127
+Green Crystal Shard;16121
+Green Crystal Splinter;16122
+Green Cushioned Chair;2378, 2379, 2380, 2381
+Green Cushioned Chair Kit;2776
+Green Dragon Leather;5877
+Green Dragon Scale;5920
+Green Flask;2877
+Green Gem;3038
+Green Light;21217
+Green Mushroom;3732
+Green Perch;7159
+Green Piece of Cloth;5910
+Green Pillow;2396
+Green Pit Demon;23490
+Green Powder;6549
+Green Power Core;9156
+Green Tapestry;2647
+Green Tome;2849
+Green Tunic;3563
+Greenwood Coat;8041
+Grey-Blue Powder;22660
+Grey Backpack;2870
+Grey Bag;2862
+Grey Tome;2851
+Griffin Shield;3433
+Griffinclaw Container;5937
+Grind Stone;15826
+Grodrik's Favourite Axe;9142
+Guardian Axe;14043
+Guardian Boots;10323
+Guardian Halberd;3315
+Guardian Shield;3415
+Hailstorm Rod;3067
+Hair of a Banshee;11446
+Halberd;3269
+Half-Digested Piece of Meat;10283
+Half-Eaten Brain;9659
+Hallowed Axe;919
+Hallowed Bone;19089
+Ham;3582
+Hammer;3460
+Hammer of Carving;23323
+Hammer of Carving (Charged);23324
+Hammer of Carving (Heavily Charged);23325
+Hammer of Carving (Overcharged);23326
+Hammer of Mayhem;23228
+Hammer of Mayhem (Charged);23238
+Hammer of Mayhem (Heavily Charged);23248
+Hammer of Mayhem (Overcharged);23258
+Hammer of Prophecy;7450
+Hammer of Remedy;23283
+Hammer of Remedy (Charged);23284
+Hammer of Remedy (Heavily Charged);23285
+Hammer of Remedy (Overcharged);23286
+Hammer of Wrath;3332
+Hamster in a Wheel;23444,23445
+Hand Axe;3268
+Hand Puppets;9189, 9190
+Hand Puppets (Replica);23676
+Handcrafted Ribbon;12171
+Hardened Bone;5925
+Harness;12307
+Harp;2963, 2964
+Harp Kit;2808
+Hat for Eclesius (Dark);9127
+Hat for Eclesius (Pink);9128
+Hat for Eclesius (Wooden);9129
+Hat of the Mad;3210
+Hatched Rorc Egg;18997
+Hatchet;3276
+Haunch of Boar;12310
+Haunted Blade;7407
+Haunted Mirror Piece;19373
+Haunted Piece of Wood;9683
+Havoc Blade;7405
+Head of Abyssador;16231
+Head of Deathstrike;16235
+Head of Gnomevil;16239
+Headache Pill;9537
+Headchopper;7380
+Health Potion;266
+Heart Backpack;10202
+Heart Pillow;2393
+Heart of the Mountain (Item);25360
+Heat Core;21167
+Heated Worm Punisher;9201
+Heaven Blossom;5921
+Heavily Bound Book;8155
+Heavy Mace;3340
+Heavy Machete;3330
+Heavy Magic Missile Rune;3198
+Heavy Medal;9223
+Heavy Metal T-Shirt;9379
+Heavy Old Tome;23986
+Heavy Package;145
+Heavy Stone Hammer;22681
+Heavy Trident;12683
+Hellforged Axe;8096
+Hellhound Slobber;9637
+Hellspawn Tail;10304
+Helmet Adornment;3228
+Helmet Ornament;3222
+Helmet Piece;3227
+Helmet of Nature;9382
+Helmet of Ultimate Terror;9381
+Helmet of the Ancients;3229
+Helmet of the Ancients (Enchanted);3230
+Helmet of the Deep;5460, 11585
+Helmet of the Lost;17852
+Hemp Rope;20206
+Hero's Medal;9220
+Heroic Axe;7389
+Hibiscus Dress;8045
+Hideous Chunk;16140
+Hieroglyph Banner;12482
+High Guard Flag;10415
+High Guard Shoulderplates;10416
+Hive Bow;14246
+Hive Scythe;14089
+Hoe;3455
+Hollow Stampor Hoof;12314
+Holy Ash;17850
+Holy Falcon;3024
+Holy Icon;9388
+Holy Missile Rune;3182
+Holy Orchid;5922
+Holy Scarab;3023
+Holy Soil;943
+Honey Flower;2984
+Honeycomb;5902
+Hook;6097
+Hopgoblin's Broken Staff;22712
+Horn (Ring);19359
+Horn of Kalyassa;24941
+Horned Helmet;3390
+Horoscope;18926
+Horseman Helmet;3405
+House Silversun's Signet Ring;22170
+Huge Chunk of Crude Iron;5892
+Humongous Chunk;16139
+Hunter's Quiver;11469
+Hunting Horn;12260
+Hunting Spear;3347
+Hyaena Trap;22662
+Hydra Egg;4839
+Hydra Head;10282
+Hydra Tongue;7250
+Hydra Tongue Salad;9080
+Ice Cream Cone (Blue-Barian);7377
+Ice Cream Cone (Chilly Cherry);7375
+Ice Cream Cone (Crispy Chocolate Chips);7372
+Ice Cream Cone (Mellow Melon);7376
+Ice Cream Cone (Sweet Strawberry);7374
+Ice Cream Cone (Velvet Vanilla);7373
+Ice Cream Cone (Venorean Dream);229
+Ice Cube;7441
+Ice Cube (Head);7442
+Ice Cube (Mammoth);7445
+Ice Cube (Tusks);7444
+Ice Flower Seeds;13844
+Ice Mammoth;7446
+Ice Pick;4872
+Ice Rapier;3284
+Iced Soil;944
+Icicle (Item);4837
+Icicle Bow;19362
+Icicle Rune;3158
+Icy Barbarian Axe;684
+Icy Blacksteel Sword;682
+Icy Clerical Mace;689
+Icy Cranial Basher;691
+Icy Crystal Mace;690
+Icy Culottes;19366
+Icy Dragon Slayer;683
+Icy Headchopper;687
+Icy Heroic Axe;686
+Icy Knight Axe;685
+Icy Mystic Blade;681
+Icy Orcish Maul;692
+Icy Rainbow Shield;8079
+Icy Relic Sword;680
+Icy Spike Sword;679
+Icy War Axe;688
+Icy War Hammer;693
+Imbuing Crystal;24964
+Imortus;12811, 12812
+Imortus (Replica);23683
+Impaler;7435
+Impaler of the Igniter;22760
+Impward;12577, 12581
+Incantation Fragment;18933
+Incantation Notes;18929
+Incredible Mumpiz Slayer;9396
+Indoor Plant;2982
+Indoor Plant Kit;2811
+Inert Astral Shaper Rune;25059
+Infernal Bolt;6528
+Inkwell;3509
+Insectoid Eggs;17457
+Intelligence Reports;348
+Intense Healing Rune (Item);3152
+Interdimensional Potion;11372
+Interwoven Moss Florets;21857
+Invitation;7933
+Iriana's Chest;8773
+Iron Hammer;3310
+Iron Helmet;3353
+Iron Loadstone;16153
+Iron Ore;5880
+Iron Token;22720
+Ivory Chair;2422, 2423, 2424, 2425
+Ivory Chair Kit;2781
+Jacket;3561
+Jade Amulet;20342
+Jade Chair;11010, 11011, 11012, 11013
+Jade Hammer;7422
+Jade Hat;10451
+Jade Zaoan Bishop;18329
+Jade Zaoan King;18328
+Jade Zaoan Knight;18330
+Jade Zaoan Pawn;18332
+Jade Zaoan Queen;18327
+Jade Zaoan Rook;18331
+Jagged Sword;7774
+Jalapeño Pepper;8016
+Jaul's Pearl;14021
+Jean Pierre's Cookbook I;9093
+Jean Pierre's Cookbook II;11541
+Jerom's Family Necklace;7754
+Jester Doll;8778
+Jester Hat;894
+Jester Staff;895
+Jewel Case;6104
+Jewel Case (Nomad);7527
+Jewelled Backpack;5801
+Jewelled Belt;11470
+Jug of Embalming Fluid;8761
+Juice Squeezer;5865
+Juicy Roots;21291
+Julius' Map;8200
+Katana;3300
+Key of Numerous Locks;19152
+Key of Numerous Locks (Replica);19152
+Key to Knowledge;24972
+Key to the Drowned Library;14009
+Kitchen Knife;3469
+Knife;3291
+Knight Armor;3370
+Knight Axe;3318
+Knight Legs;3371
+Knight Statue Kit;2802
+Kollos Shell;14077
+Kongra's Shoulderpad;11471
+Koshei's Ancient Amulet;7532
+Krimhorn Helmet;7461
+Label;3507
+Lamp;2914, 2915, 2916
+Lancer Beetle Shell;10455
+Lancet;18925
+Large Amphora;2904
+Large Amphora Kit;2805
+Large Hallowed Bone;19088
+Large Pliers;22680
+Large Trunk;2483, 2484, 2485, 2486
+Large Used Amphora Kit;23460
+Large Yellowed Bone;19091
+Larvae;14084
+Laurel Wreath;9221
+Lavos Armor;8049
+Leaf Golem Santa;20309
+Leaf Legs;9014
+Leather Armor;3361
+Leather Boots;3552
+Leather Harness;17846
+Leather Helmet;3355
+Leather Legs;3559
+Leather Whip;12306
+Leech;17858
+Left Horn;3225
+Legion Helmet;3374
+Legionnaire Flags;10417
+Legs of Gnomevil;16237
+Lemon;8013
+Leopard Armor;3404
+Letter;3505
+Letter to Chantalle;7940
+Letter to Eremo;6113
+Letter to Markwin;3220
+Letterbag;3217
+Leviathan's Amulet;9303
+Lich Staff;3343
+Life Crystal;3061
+Life Preserver;17813
+Life Ring;3052
+Light Mace;3325
+Light Magic Missile Rune;3174
+Light Parquet;23718
+Light Shovel;5710
+Light Stone Shower Rune;21351
+Lightest Magic Missile Rune;17512
+Lightest Missile Rune;21352
+Lightning Boots;820
+Lightning Headband;828
+Lightning Legs;822
+Lightning Pendant;816
+Lightning Robe;825
+Lightsphere;24929
+Lion's Mane;9691
+Lion's Mane Flower;21389
+Lion Trophy;7400
+Lisa's Doll;21218
+Lit Candelabrum;2912
+Lit Crystal Lamp;16095
+Lit Glowing Mushroom;16098
+Lit Lightsphere;24930
+Lit Predator Lamp;23436
+Lit Protectress Lamp;23440
+Rift Lamp;22735
+Lit Small Lamp;9060
+Little Adventurer Doll;22120
+Little Adventurer Doll (Activated);22121
+Lizard Essence;11680
+Lizard Leather;5876
+Lizard Scale;5881
+Lizard Trophy;10419
+Lizard Weapon Rack;10210, 10211
+Lizard Weapon Rack Kit;10209
+Lock Pick;7889
+Locker;2449, 2450, 2451, 2452
+Locker Kit;2791
+Longsword;3285
+Lordly Tapestry;23448
+Loremaster Doll;25632, 25633, 25634
+Lost Basher's Spike;17826
+Lost Bracers;17853
+Lost Husher's Staff;17848
+Lottery Ticket;5957
+Lottery Ticket (Blank);5956
+Love Potion;9173
+Lucky Clover Amulet;10476
+Ludicrous Piece of Cloth;12555
+Luminous Orb;11454
+Luminous Piece of Cloth;12556
+Lump of Cake Dough;6276
+Lump of Chocolate Dough;8018
+Lump of Clay;11329
+Lump of Dirt;9692
+Lump of Dough;3604
+Lump of Earth;10305
+Lump of Garlic Dough;8196
+Lump of Holy Water Dough;8195
+Lump of Sacred Clay;11344
+Lunar Staff;7424
+Lute;2950
+Lyre;2949
+Mace;3286
+Mace of Carving;23319
+Mace of Carving (Charged);23320
+Mace of Carving (Heavily Charged);23321
+Mace of Carving (Overcharged);23322
+Mace of Mayhem;23227
+Mace of Mayhem (Charged);23237
+Mace of Mayhem (Heavily Charged);23247
+Mace of Mayhem (Overcharged);23257
+Mace of Remedy;23279
+Mace of Remedy (Charged);23280
+Mace of Remedy (Heavily Charged);23281
+Mace of Remedy (Overcharged);23282
+Machete;3308
+Machine Crate;9390
+Mad Froth;17854
+Mage's Cap;12599
+Mage Hat;7992
+Magic Crystal;11552
+Magic Light Wand;3046
+Magic Light Wand (Lit);3047
+Magic Longsword;3278
+Magic Plate Armor;3366
+Magic Sulphur;5904
+Magic Sword;3288
+Magic Wall Rune;3180
+Magical Cage Key;9113
+Magical Inkwell;127
+Magical Key;2967
+Magical Measurement Device;4049
+Magical Watch;112
+Magician's Robe;7991
+Magician Hat;3573
+Magma Amulet;817
+Magma Boots;818
+Magma Clump;16130
+Magma Coat;826
+Magma Legs;821
+Magma Monocle;827
+Magnificent Cabinet;23419,23420
+Magnificent Chair;23403,23404,23405,23406
+Magnificent Table;23417,23418
+Magnificent Trunk;23427,23428,23429,23430
+Mago Mechanic Core;9249
+Mailbox (Furniture);23399
+Maimer;22762
+Majestic Shield;14766, 14767
+Major Crystalline Token;16129
+Mammoth Fur Cape;7463
+Mammoth Fur Shorts;7464
+Mammoth Tusk;10321
+Mammoth Whopper;7381
+Mana Potion;268
+Mandrake;5014
+Mango;5096
+Mantassin Tail;11489
+Map to the Unknown;10011
+Marble Floor (Furniture);23720
+Marble Statue;10428
+Marked Crate;11328
+Marlin;901
+Marlin Trophy;902
+Marsh Stalker Beak;17461
+Marsh Stalker Feather;17462
+Master Archer's Armor;8060
+Mastermind Potion;7440
+Mastermind Shield;3414
+Masterpiece of a Gozzler;14695, 14696
+Masterpiece of a Muse;14691, 14692
+Mathmaster Shield;14760, 14761
+Maxilla;12315
+Maxilla Maximus;12304
+Maxxen Santa;21952
+Mead Horn;7140, 7141
+Mean Knight Sword;17109
+Mean Paladin Spear;17110
+Meandi;12576, 12580
+Meat;3577
+Meat Shield;9372
+Meaty Vortex;12230
+Mechanical Fish;9307
+Mechanical Fishing Rod;9306
+Medicine Pouch;12517
+Medusa Shield;3436
+Medusa Skull;14762, 14763
+Medusa Skull (Replica);23680
+Melon;3593
+Melting Horn;20355
+Memory Box;19397
+Memory Box (Activated);19398
+Memory Crystal;7281
+Memory Stone;4841
+Menacing Egg;23685
+Menacing Tapestry;23449
+Mercenary Sword;7386
+Message in a Bottle;5802
+Metal Bat;21171
+Metal Fitting;9115
+Metal Jaw;21193
+Metal Spats;21169
+Metal Spike;10298
+Metal Toe;21198
+Midnight Panther Doll;21947, 21948
+Midnight Shard;9615
+Might Ring;3048
+Mighty Helm of Green Sparks;9399
+Milking Fork;21877
+Mind Stone;3062
+Mini Mummy;10290
+Miniature House;15276
+Mining Helmet;875
+Mining Helmet (Budrik);139
+Mino Lance;21174
+Mino Shield;21175
+Minor Crystalline Token;16128
+Minotaur Backpack;10327
+Minotaur Horn;11472
+Minotaur Leather;5878
+Minotaur Statue;2029, 2043, 2044, 2045
+Minotaur Statue Kit;2803
+Minotaur Trophy;7401
+Miraculum;11474
+Mirror;3463
+Model Ship;2994
+Modified Crossbow;8021
+Molten Plate;8058
+Molten Wax;9106
+Monkey Statue 'Hear' Kit;5087
+Monkey Statue 'See' Kit;5086
+Monkey Statue 'Speak' Kit;5088
+Monkey Statue (No Hearing);5055
+Monkey Statue (No Seeing);5046
+Monkey Statue (No Speaking);5056
+Mono Detector;21192
+Mooh'tah Plate;21166
+Mooh'tah Shell;21202
+Moohtant Cudgel;21173
+Moohtant Horn;21200
+Moon Backpack;9604
+Moon Flower;3655
+Moonlight Crystals;22083
+Moonlight Rod;3070
+Morgaroth's Heart;5943
+Morik's Helmet;8820
+Morning Star;3282
+Mother Soil;947
+Mouldy Cheese;3120
+Mouthpiece for a Horn;20057
+Mr. Punish's Handcuffs;6537
+Muck Remover;16101
+Muck Rod;16117
+Mucus Plug;16102
+Mug;2880
+Mummy Disguise;144
+Mushroom Backpack;16099
+Mushroom Pie;16103
+Mushroom Spores;7251
+Music Box;16244
+Music Box (Replica);23677
+Music Box (TibiaSpace);12045, 12046
+Music Sheet (First Verse);6087
+Music Sheet (Fourth Verse);6090
+Music Sheet (Second Verse);6088
+Music Sheet (Third Verse);6089
+Musician's Bow;9378
+Mutated Bat Ear;9662
+Mutated Flesh;10308
+Mutated Rat Tail;9668
+Mycological Bow;16164
+Mycological Mace;16162
+Mysterious Fetish;3078
+Mysterious Metal Egg;19065
+Mysterious Package;897, 898, 899
+Mysterious Remains;23509
+Mysterious Scroll;22865
+Mysterious Voodoo Skull;5668
+Mystic Blade;7384
+Mystic Root;11551
+Mystic Turban;3574
+Mystical Hourglass;9660
+Mythril Axe;7455
+Nacre Slab (Blue);21753
+Nacre Slab (Red);21862
+Nacre Slab (Yellow);21861
+Naginata;3314
+Nail;953
+Nail Case;19136
+Native Armor;3402
+Natural Soil;940
+Nature Magic Spellbook;648
+Nautical Map;9308
+Necklace of the Deep;13990
+Necromancer Shield;6432
+Necromantic Robe;11475
+Necromantic Rust;21196
+Necrometer;21124
+Necrotic Rod;3069
+Net;12186
+Nettle Blossom;10314
+Nettle Spit;11476
+Neutral Matter;954
+Nightmare Beacon;20280, 20281
+Nightmare Blade;7418
+Nightmare Doll;10227
+Nightmare Hook;20282
+Nightmare Horn;20274
+Nightmare Shield;6390
+Nightmare Teddy;21982
+Nilsor's Waterskin;7246, 7286
+Noble Armor;3380
+Noble Axe;7456
+Noble Sword;16275
+Noble Sword (Activated);16276
+Noble Sword (Replica);22028
+Noble Turban;11486
+Nomad Parchment;7533
+Norse Shield;7460
+Norseman Doll;8154, 8157
+Norseman Doll (Replica);19150
+Northern Fishburger;9088
+Northern Pike;3580
+Northern Star;7409
+Northwind Rod;8083
+Nose Ring;5804
+Note from the Thieves Guild;7873
+Notes and Coordinates;14176
+O Tic-Tac-Toe Token;3548
+Obsidian Knife;5908
+Obsidian Lance;3313
+Obsidian Truncheon;8100
+Obsidian Zaoan Bishop;18335
+Obsidian Zaoan King;18334
+Obsidian Zaoan Knight;18336
+Obsidian Zaoan Pawn;18338
+Obsidian Zaoan Queen;18333
+Obsidian Zaoan Rook;18337
+Obujos' Shell;14023
+Obvious Piece of Cloth;12554
+Occupied Birdcage;23813
+Oceanborn Leviathan Armor;8056
+Odd Hat;9374
+Ogre Beer;22710
+Ogre Choppa;22172
+Ogre Ear Stud;22188
+Ogre Klubba;22171
+Ogre Nose Ring;22189
+Ogre Rune Stone;22667
+Ogre Rune Stones (Corner);22668
+Ogre Rune Stones (Right);22666
+Ogre Rune Stones (Two);22669
+Ogre Rune Stones (Up);22665
+Ogre Scepta;22183
+Oil Lamp;2932
+Old Cape;11701
+Old Encrypted Text;9186
+Old Iron;11549
+Old Nasty;21402
+Old Note;23731
+Old Parchment;4831
+Old Parchment (Brown);21413
+Old Parchment (Omrabas);19132
+Old Power Core;9252
+Old Radio;12813, 12814
+Old Rag;24415
+Old Silver Key;23733
+Old Tome;23985
+Old and Used Backpack;3244
+Ominous Piece of Cloth;12551
+Omrabas' Bone Key;19166
+Omrabas' Copper Key;19173
+Omrabas' Heart;19077
+Omrabas' Talking Skull;19160
+One Hit Wonder;21219
+Onion;8015
+Onyx Arrow;7365
+Onyx Chip;22193
+Onyx Flail;7421
+Onyx Pendant;22195
+Opal;22194
+Open Metal Egg;19066
+Opticompass Sphere;22707
+Opticording Sphere;19063, 19064
+Oracle Figurine;8146, 8147
+Orange;3586
+Orange Backpack;9602
+Orange Bag;9603
+Orange Mushroom;3726
+Orange Star;3673
+Orange Tapestry;2653
+Orb;3060
+Orc's Jaw Shredder;10800, 10801
+Orc's Jaw Shredder (Replica);19155
+Orc Leather;11479
+Orc Tooth;10196
+Orc Trophy;7395
+Orc Tusk;7786
+Orcish Axe;3316
+Orcish Gear;11477
+Orcish Maul;7392
+Orclops Santa;24394
+Orichalcum Pearl;5021
+Oriental Shoes;21981
+Ornamented Ankh;3241
+Ornamented Axe;7411
+Ornamented Brooch;11468
+Ornamented Shield;3424
+Ornate Chestplate;13993
+Ornate Crossbow;14247
+Ornate Legs;13999
+Ornate Mace;14001
+Ornate Mailbox;23401
+Ornate Shield;14000
+Orshabaal's Brain;5808
+Oven;2536
+Oven (Lit);2535
+Oven Kit;6371
+Oven Spatula;3472
+Package of Potions;892
+Painted Gourd Rattle;22190
+Painting of a Girl;23732
+Painting of a Gozzler;14697, 14698
+Painting of a Muse;14693, 14694
+Pair of Earmuffs;7459
+Pair of Hellflayer Horns;22729
+Pair of Iron Fists;17828
+Pair of Soft Boots;3549, 6529
+Paladin Armor;8063
+Pan;3466
+Panda Teddy;5080, 6568
+Pannier Backpack;19159
+Panpipes;2953
+Panther Head;12039
+Panther Paw;12040
+Paper;2820
+Paralyse Rune;3165
+Parcel;3503
+Parcel (Watchtower);140
+Parchment (Gnomes);636
+Parchment (Yellow);2835
+Parchment (Yellow Rewritable);2817
+Part of a Rune (Five);24958
+Part of a Rune (Four);24957
+Part of a Rune (One);24954
+Part of a Rune (Six);24959
+Part of a Rune (Three);24956
+Part of a Rune (Two);24955
+Party Cake;6279
+Party Hat;6578
+Party Lampions (Green);14025
+Party Lampions (Red);14026
+Party Trumpet;6572, 6573
+Party Wall Snake;14028
+Party Wall Tinsel;14027
+Patched Boots;3550
+Pathfinder Kit;17514
+Paw Amulet;3102
+Peacock Feather Fan;21975
+Peanut;841
+Pear;3584
+Peas;11683
+Peg Leg;6126
+Pelvis Bone;11481
+Pendulum;20141
+Pendulum Clock;2445, 2446, 2447, 2448
+Pendulum Clock Kit;2801
+Perfect Behemoth Fang;5893
+Petrified Scream;10420
+Pharaoh Banner;12483
+Pharaoh Sword;3334
+Phial of Fresh Water;23810
+Phoenix Charm;10341
+Phoenix Egg;3215
+Phoenix Shield;3439
+Phoenix Statue;4115
+Phoenix Statue (Replica);22026
+Piano;2959, 2960, 2961, 2962
+Piano Kit;2807
+Pick;3456
+Picture (Landscape);2639
+Picture (Portrait);2640
+Picture (Still Life);2641
+Piece of Archer Armor;11483
+Piece of Cactus;7245
+Piece of Crocodile Leather;10279
+Piece of Dead Brain;9663
+Piece of Draconian Steel;5889
+Piece of Hell Steel;5888
+Piece of Hellfire Armor;9664
+Piece of Iron;3110
+Piece of Marble Rock;10426
+Piece of Massacre's Shell;6540
+Piece of Royal Satin;8762
+Piece of Royal Steel;5887
+Piece of Scarab Shell;9641
+Piece of Swampling Wood;17823
+Piece of Warrior Armor;11482
+Piece of a Broken Amulet (Eye);7529
+Piece of a Broken Amulet (Hanger);7528
+Piece of a Broken Amulet (Mouth);7530
+Piece of a Broken Amulet (Nose);7531
+Pieces of Magic Chalk;18930
+Piercing Bolt;7363
+Pig Foot;9693
+Piggy Bank;2995
+Pile of Grave Earth;11484
+Pillow Backpack;24393
+Pinch of Crystal Dust;21507
+Pineapple;11459
+Pink Gloud Essence;21839
+Pint of Glooth;21137, 21214, 21215
+Pirate Backpack;5926
+Pirate Bag;5927
+Pirate Boots;5461
+Pirate Hat;6096
+Pirate Knee Breeches;5918
+Pirate Shirt;6095
+Pirate Tapestry;5615
+Pirate Treasure Map;9205
+Pirate Voodoo Doll;5810
+Pirates Surprise;14751
+Pitchfork;3451
+Plague Bell;12787
+Plague Bite;22759
+Plague Mask;12786
+Plans for a Strange Device;9696
+Plasma Pearls;23506
+Plate;2905
+Plate Armor;3357
+Plate Legs;3557
+Plate Shield;3410
+Platinum Amulet;3055
+Platinum Coin;3035
+Platinum Token;22723
+Plum;8011
+Poem Scroll;6119
+Poet's Fencing Quill;9387
+Pointed Rabbitslayer;9375
+Poison Arrow;3448
+Poison Bomb Rune;3173
+Poison Dagger;3299
+Poison Field Rune;3172
+Poison Salt Crystal;22694
+Poison Spider Shell;11485
+Poison Wall Rune;3176
+Poisoned Fang;21195
+Poisonous Slime;9640
+Polar Bear Paw;9650
+Pool of Chitinous Glue;20207
+Porcelain Mask;25088
+Post Horn;2957
+Post Officer's Hat;3576
+Pot;3465
+Pot of Blackjack;11586
+Potato;8010
+Potted Flower;2985
+Potted Plant;2987
+Powder Herb;3739
+Power Bolt;3450
+Power Ring;3050
+Precious Necklace;7939
+Predator Lamp;23434
+Premium Scroll;14758
+Prepared Bucket;12819
+Pretty Clay Statue;10425
+Prickly Pear;22185
+Prismatic Armor;16110
+Prismatic Bolt;16141
+Prismatic Boots;16112
+Prismatic Helmet;16109
+Prismatic Legs;16111
+Prismatic Necklace;16113
+Prismatic Quartz;24962
+Prismatic Ring;16114
+Prismatic Shield;16116
+Prison Cell Key;9172
+Protection Amulet;3084
+Protective Charm;11444
+Protectress Lamp;23438
+Psychedelic Tapestry;20277
+Pulverized Ore;16133
+Pumpkin;3594
+Pure Energy;948
+Purple Backpack;2868
+Purple Bag;2860
+Purple Kiss Blossom;7249
+Purple Nightshade Blossoms;22082
+Purple Powder;6548
+Purple Robe;11473
+Purple Tapestry;2644
+Purple Tome;2848
+Quara Bone;11491
+Quara Eye;11488
+Quara Pincers;11490
+Quara Tentacle;11487
+Queen's Sceptre;7410
+Rabbit's Foot;12172
+Rabbit's Foot Lucky Charm;12173
+Ragnir Helmet;7462
+Rainbow Shield;8077
+Rainbow Trout;7158
+Rake;3452
+Ranger's Cloak;3571
+Ranger Legs;8095
+Rapier;3272
+Rare Crystal;9697
+Raspberry;8012
+Rat Cheese;17821
+Rat God Doll;17825
+Ratana;17812
+Rattling Gourd;22650
+Ravager's Axe;3331
+Raven Herb;5953
+Ravenwing;7433
+Reagent Flask;14054
+Reaper's Axe;7420
+Receipt (Fail);21933
+Receipt (Success);21932
+Red Apple;3585
+Red Backpack;2867
+Red Bag;2859
+Red Balloons;6575
+Red Bed Kit;833
+Red Christmas Bundle;6506
+Red Christmas Garland;6503
+Red Crystal Fragment;16126
+Red Cushioned Chair;2374, 2375, 2376, 2377
+Red Cushioned Chair Kit;2775
+Red Dragon Leather;5948
+Red Dragon Scale;5882
+Red Gem;3039
+Red Hair Dye;17855
+Red Lantern;10289
+Red Mushroom;3724
+Red Paint;22652
+Red Piece of Cloth;5911
+Red Pillow;2395
+Red Pit Demon;23493
+Red Powder;6550
+Red Power Core;9155
+Red Robe;3566
+Red Rose;3658
+Red Tapestry;2656
+Red Teleport Crystal;16242
+Red Tome;2852
+Red Tunic;3564
+Reins;12308
+Reinvigorating Seeds;23811
+Relic Sword;7383
+Replica of the Sceptre;11362
+Rerun's Ring;8777
+Research Notes;8764
+Reward Box;12057
+Rhino Hide;24388
+Rhino Horn;24389
+Rhino Horn Carving;24386
+Rice Ball;10329
+Rift Bow;22866
+Rift Crossbow;22867
+Rift Lamp;22734
+Rift Lamp (Charging);22734
+Rift Lance;22727
+Rift Shield;22726
+Rift Tapestry;22731
+Right Horn;3224
+Ring of Blue Plasma;23529, 23530
+Ring of Ending;20182
+Ring of Green Plasma;23531, 23532
+Ring of Healing;3098
+Ring of Red Plasma;23533, 23534
+Ring of Wishes;3245
+Ring of the Sky;3006
+Ripper Lance;3346
+Roasted Dragon Wings;9081
+Roasted Meat;22187
+Robe of the Ice Queen;8038
+Robe of the Underworld;8062
+Roc Feather;3254
+Rocking Chair;2382, 2383, 2384, 2385
+Rocking Chair Kit;2778
+Rocking Horse;2997, 2998, 2999, 2300
+Rocking Horse Kit;2800
+Rod of Carving;23339
+Rod of Carving (Charged);23340
+Rod of Carving (Heavily Charged);23341
+Rod of Carving (Overcharged);23342
+Rod of Mayhem;23232
+Rod of Mayhem (Charged);23242
+Rod of Mayhem (Heavily Charged);23252
+Rod of Mayhem (Overcharged);23262
+Rod of Remedy;23339
+Rod of Remedy (Charged);23300
+Rod of Remedy (Heavily Charged);23301
+Rod of Remedy (Overcharged);23302
+Roll;3601
+Roll of Covering;21898
+Rolled-up Azure Carpet;23716
+Rolled-up Bamboo Mat;23455
+Rolled-up Crimson Carpet;23715
+Rolled-up Emerald Carpet;23717
+Rolled-up Parchment;22706
+Rolled-up White Fur Carpet;23454
+Rolled-up Yalaharian Carpet;23453
+Rolling Pin;3473
+Ron the Ripper's Sabre;6101
+Rope;3003
+Rope Belt;11492
+Rorc Egg;18996
+Rorc Feather;18993
+Rose Shield;3427
+Rotten Heart of a Tree;652
+Rotten Piece of Cloth;10291
+Rotten Witches' Cauldron Seed;12232
+Rotworm Stew;9079
+Rough Clay Statue;10423
+Rough Marble Statue;10427
+Rough Red Gem;14162
+Round Blue Pillow;2398
+Round Purple Pillow;2400
+Round Red Pillow;2399
+Round Table Kit;2783
+Round Turquoise Pillow;2401
+Royal Axe;7434
+Royal Crossbow;8023
+Royal Draken Mail;11686
+Royal Fanfare;2956
+Royal Helmet;3392
+Royal Medal;9222
+Royal Scale Robe;11687
+Royal Spear;7378
+Royal Star;25759
+Royal Tapestry;9045
+Rubber Cap;21165
+Ruby Necklace;3016
+Rum Flask;5552
+Runed Sword;7417
+Runic Ice Shield;19363
+Rustic Cabinet;23700, 23701
+Rustic Chair;23693, 23694, 23695, 23696
+Rustic Table;23698, 23699
+Rustic Trunk;23702, 23704, 23705, 23706
+Rusty Armor (Common);8894
+Rusty Armor (Rare);8896
+Rusty Armor (Semi-Rare);8895
+Rusty Boots (Common);8903
+Rusty Boots (Rare);8905
+Rusty Boots (Semi-Rare);8904
+Rusty Helmet (Common);8906
+Rusty Helmet (Rare);8908
+Rusty Helmet (Semi-Rare);8907
+Rusty Legs (Common);8897
+Rusty Legs (Rare);8899
+Rusty Legs (Semi-Rare);8898
+Rusty Shield (Common);8900
+Rusty Shield (Rare);8902
+Rusty Shield (Semi-Rare);8901
+Rusty Weapon (Common);8891
+Rusty Weapon (Rare);8893
+Rusty Weapon (Semi-Rare);8892
+Rusty Winged Helmet;24405
+Ruthless Axe;6553
+Sabre;3273
+Sabretooth;10311
+Sack of Herbs;12671
+Sacred Antler Talisman;22009
+Sacred Bowl;11331
+Sacred Bowl of Purification;11347
+Sacred Coal;11334
+Sacred Earth;11341
+Sacred Tree Amulet;9302
+Safety Pin;11493
+Sai;10389
+Salamander Shield;3445
+Salmon;3579
+Sample of Sand Wasp Honey;8760
+Sample of Venorean Spice;8759
+Sandals;3551
+Sandcrawler Shell;10456
+Sandfish;13992
+Santa Backpack;10346
+Santa Doll;6511, 6567
+Santa Hat;6531
+Santa Music Box;20313, 20314
+Santa Teddy;10338
+Sapphire Amulet;3021
+Sapphire Hammer;7437
+Saw;3461
+Scale Armor;3377
+Scale from a Frozen Dragon;7314
+Scale of Corruption;11673
+Scale of Gelidrazah;24939
+Scarab Amulet;3018
+Scarab Cheese;169
+Scarab Coin;3042
+Scarab Pincers;9631
+Scarab Shield;3440
+Scarf;3572
+Sceptre Part (Cusp);11370
+Sceptre Part (Emerald);11369
+Sceptre Part (Shaft);11368
+Scimitar;3307
+Scorpion Sceptre;12509
+Scorpion Tail;9651
+Screaming Cherry;12229
+Scribbled Sheet of Paper;11426
+Scroll;2815
+Scroll (TBI);347
+Scroll of Ascension;22771
+Scroll of Ascension (Used);22772
+Scroll of Heroic Deeds;11510
+Scum Bag;12237
+Scythe;3453
+Scythe Leg;10312
+Scythe of the Reaper;9384
+Sea Ear;21754
+Sea Serpent Scale;9666
+Sea Serpent Trophy;9613
+Seacrest Hair;21801
+Seacrest Pearl;21747
+Seacrest Scale;21800
+Seashell Book (Blue);14173
+Seashell Book (Green);14175
+Seashell Book (Yellow);14174
+Secret Letter;402
+Sedge Hat;11700
+Seeds;647
+Sentinel Shield;3444
+Serpent Crest;10199
+Serpent Sword;3297
+Shadow Herb;3740
+Shadow Mask;24973
+Shadow Orb;9237
+Shadow Paint;24974
+Shadow Sceptre;7451
+Shaggy Ogre Bag;22763
+Shaggy Tail;10407
+Shamanic Hood;11478
+Shamanic Mask;22192
+Shamanic Talisman;22184
+Shapechanger;12251
+Shapeshifter Ring;907
+Shard;7290
+Shark Teeth;22649
+Sheet of Tracing Paper (Blank);4842
+Sheet of Tracing Paper (Full);4843
+Shell (Item);24439
+Shield of Care;9380
+Shield of Corruption;11688
+Shield of Destiny;22890
+Shield of Destiny (Activated);22889
+Shield of Honour;3417
+Shield of the White Knight;9377
+Shimmer Ball;12807
+Shimmer Bow;12733
+Shimmer Glower;12735
+Shimmer Rod;12732
+Shimmer Swimmer;12557
+Shimmer Sword;12731
+Shimmer Wand;12741
+Shiny Blade;16175
+Shiny Stone;10310
+Shiver Arrow;762
+Shockwave Amulet;9304
+Shopping Bag;21411
+Short Sword;3294
+Shovel;3457
+Shrimp;3581
+Shroud of Despair;22757
+Shrunken Head Necklace;19357
+Sickle;3293
+Sight of Surrender's Eye;20183
+Signed Contract;128
+Silencer Claws;20200
+Silencer Excretion;20165
+Silencer Resonating Chamber;20201
+Silkweaver Bow;8029
+Silky Fur;10292
+Silky Tapestry;9046
+Silver Amulet;3054
+Silver Brooch;3017
+Silver Cup of Honour;9207
+Silver Dagger;3290
+Silver Fafnar Trophy;9627
+Silver Goblet;5806
+Silver Key;2969
+Silver Key (Outpost);21392
+Silver Mace;3312
+Silver Medal;9216
+Silver Necklace;3015
+Silver Prison Key;20270
+Silver Raid Token;19083
+Silver Rune Emblem (Animate Dead);11613
+Silver Rune Emblem (Avalanche);11623
+Silver Rune Emblem (Chameleon);11633
+Silver Rune Emblem (Desintegrate);11631
+Silver Rune Emblem (Destroy Field);11639
+Silver Rune Emblem (Energy Bomb);11627
+Silver Rune Emblem (Energy Wall);11635
+Silver Rune Emblem (Explosion);11607
+Silver Rune Emblem (Fire Bomb);11643
+Silver Rune Emblem (Fire Field);11649
+Silver Rune Emblem (Fireball);11617
+Silver Rune Emblem (Great Fireball);11615
+Silver Rune Emblem (Heavy Magic Missile);11605
+Silver Rune Emblem (Holy Missile);11625
+Silver Rune Emblem (Icicle);11621
+Silver Rune Emblem (Light Magic Missile);11647
+Silver Rune Emblem (Magic Wall);11611
+Silver Rune Emblem (Paralyze);11629
+Silver Rune Emblem (Poison Bomb);11645
+Silver Rune Emblem (Soulfire);11637
+Silver Rune Emblem (Sudden Death);11609
+Silver Rune Emblem (Thunderstorm);11619
+Silver Rune Emblem (Ultimate Healing);11603
+Silver Rune Emblem (Wild Growth);11641
+Silver Token;22516
+Silver Trophy of Excellence;9213
+Silver Warrior Trophy;9210
+Simple Arrow;21470
+Simple Dress;3568
+Simple Fanfare;2954
+Siramal's Golden Bug Trophy;14673
+Skeleton Decoration;6525
+Skull (Item);3114
+Skull Belt;11480
+Skull Candle;5812, 5813
+Skull Fetish;22191
+Skull Helmet;5741
+Skull Shatterer;17849
+Skull Staff;3324
+Skull of Ratha;3207
+Skull of a Caveman;10159
+Skullcracker Armor;8061
+Skullcrusher;7423
+Skunk Tail;10274
+Slayer of Carving;23307
+Slayer of Carving (Charged);23308
+Slayer of Carving (Heavily Charged);23309
+Slayer of Carving (Overcharged);23310
+Slayer of Mayhem;23224
+Slayer of Mayhem (Heavily Charged);23344
+Slayer of Mayhem (Overcharged);23354
+Slayer of Remedy;23267
+Slayer of Remedy (Charged);23268
+Slayer of Remedy (Heavily Charged);23269
+Slayer of Remedy (Overcharged);23270
+Slime Gobbler;12077
+Slime Heart;21194
+Slime Mould;12601
+Slimy Leaf Tentacle;21197
+Sling Herb;3738
+Slingshot;5907
+Slug Drug;12519
+Small Amethyst;3033
+Small Axe;3462
+Small Blue Pillow;2389
+Small Crystal Bell;21554
+Small Diamond;3028
+Small Dragon Tear;19084
+Small Emerald;3032
+Small Enchanted Amethyst;678
+Small Enchanted Emerald;677
+Small Enchanted Ruby;676
+Small Enchanted Sapphire;675
+Small Energy Ball;23524
+Small Flask of Eyedrops;11512
+Small Golden Anchor;14019
+Small Green Pillow;2387
+Small Health Potion;7876
+Small Ice Statue (Bird);7448
+Small Ice Statue (Fish);7447
+Small Lamp;9059
+Small Notebook;11450
+Small Oil Lamp;2933
+Small Orange Pillow;2390
+Small Pitchfork;11513
+Small Purple Pillow;2386
+Small Red Pillow;2388
+Small Round Table;2316
+Small Ruby;3030
+Small Sapphire;3029
+Small Stone;1781
+Small Table;2319
+Small Table Kit;2782
+Small Topaz;9057
+Small Trunk;2426
+Small Turquoise Pillow;2391
+Small Whistle;12602
+Small White Pillow;2392
+Smoking Coal;19251
+Snake Destroyer;4835
+Snake God's Sceptre;11692
+Snake God's Wristguard;11691
+Snake God Trophy;11694
+Snake Sceptre;11371
+Snake Skin;9694
+Snakebite Rod;3066
+Sneaky Stabber of Eliteness;9594
+Sneaky Stabber of Eliteness (Jammed);9595
+Sniper Arrow;7364
+Sniper Gloves;5875
+Snow Flake Tapestry;20315
+Snow Globe;20311, 20312
+Snowball;2992
+Snowman Doll;10339
+Sofa Chair;2366, 2367, 2368, 2369
+Sofa Chair Kit;2779
+Soft Cheese;17820
+Soft Piece of Cloth;21869
+Solar Axe;8097
+Soldier Helmet;3375
+Solid Rage;23517
+Solitude Charm;10345
+Some Golden Fruits;3020
+Some Grimeleech Wings;22730
+Some Mushrooms;3730
+Some Mushrooms (Brown);3729
+Some Special Leaves;120
+Sorc and Druid Staff;17111
+Soul Contract;10028
+Soul Net;14020
+Soul Orb;5944
+Soul Stone;5809
+Souleater Trophy;11679
+Soulfire Rune;3195
+Spare Part;9154
+Sparking Rainbow Shield;8080
+Spear;3277
+Special Flask (Fools Guild);110
+Special Flask (Holy Water);133
+Special Flask (Padreia);135
+Special Flask (Quara);126
+Special Flask (Slime);107
+Special Flask (Stalker);125
+Special Flask (Vascalir);12785
+Special Polish;9107
+Spectral Bolt;25758
+Spectral Cloth;11546
+Spectral Dress;4836
+Spectral Stone;4840
+Spellbook;3059
+Spellbook (Alternative);3101
+Spellbook of Ancient Arcana;14769
+Spellbook of Dark Mysteries;8090
+Spellbook of Enlightenment;8072
+Spellbook of Lost Souls;8075
+Spellbook of Mind Control;8074
+Spellbook of Vigilance;16107
+Spellbook of Warding;8073
+Spellbook of the Novice;21400
+Spellscroll of Prophecies;8076
+Spellsinger's Seal;14008
+Spellwand;651
+Spellweaver's Robe;10438
+Spider Fangs;8031
+Spider Silk;5879
+Spiderwebs;8032
+Spidris Mandible;14082
+Spike Shield;17810
+Spike Sword;3271
+Spiked Iron Ball;10408
+Spiked Squelcher;7452
+Spiky Club;17859
+Spirit Cage;4050
+Spirit Cloak;8042
+Spirit Container;5884
+Spiritual Charm;10343
+Spitter Nose;14078
+Spooky Blue Eye;9642
+Spool of Steel Silk Yarn;21820
+Spool of Yarn;5886
+Spoon;3468
+Spoon with a Ribbon;12175
+Springsprout Rod;8084
+Sprocketwhip Cone;12234
+Spying Eye;23512
+Spyreport;3232
+Square Table;2315
+Square Table Kit;2784
+Squeezing Gear of Girlpower;9596
+Squeezing Gear of Girlpower (Jammed);9597
+Stabilizer;9248
+Staff;3289
+Staff (Simon);6107
+Stalagmite Rune;3179
+Stale Bread of Ancientness;9376
+Stale Mushroom Beer;15795
+Stamped Parcel;3504
+Stampor Horn;12312
+Stampor Talons;12313
+Standing Mirror;2453, 2454
+Star Amulet;3014
+Star Herb;3736
+Star Ring;12669
+Starfish (Item);24438
+Statue (Knight);2025, 2059, 2060, 2061
+Statue of Abyssador;16232
+Statue of Deathstrike;16236
+Statue of Devovorga;4065
+Statue of Gnomevil;16240
+Stealth Ring;3049
+Steel Axe;7773
+Steel Boots;3554
+Steel Helmet;3351
+Steel Shield;3409
+Steel Spider Silk;21819
+Stimulated Brain;19078
+Stolen Golden Goblet;7870
+Stone Herb;3735
+Stone Nose;16137
+Stone Shower Rune;3175
+Stone Skin Amulet;3081
+Stone Table Kit;2786
+Stone Wing;10278
+Stone of Insight;21383
+Stone of Wisdom;4061
+Stonecutter Axe;3319
+Strand of Medusa Hair;10309
+Strange Amulet;21379
+Strange Device;21759
+Strange Good Night Songs;20050
+Strange Helmet;3373
+Strange Powder;4838
+Strange Powder (Hive);13974
+Strange Probing Device;21208, 21209, 21210
+Strange Proto Matter;23513
+Strange Symbol;3058
+Strange Talisman;3045
+Strawberry;3591
+Striker's Favourite Pillow;6105
+String of Mending;20208
+Striped Fur;10293
+Strong Cloth;21873
+Strong Health Potion;236
+Strong Mana Potion;237
+Strong Sinew;11548
+Studded Armor;3378
+Studded Club;3336
+Studded Helmet;3376
+Studded Legs;3362
+Studded Shield;3426
+Stuffed Bunny;3242
+Stuffed Dragon;5791, 6566
+Stuffed Toad;10294
+Sudden Death Rune;3155
+Sugar Oat;12802
+Sugatrap's Obsidian Lance;22713
+Sulphurous Stone;10315
+Summer Dress;8046
+Sun Mirror;19361
+Supply Crate;21155, 21156
+Supreme Health Potion;23375
+Surprise Bag (Blue);6570
+Surprise Bag (Red);6571
+Surprise Nest;14759
+Suspicious Documents;400
+Suspicious Signet Ring;349
+Suspicious Surprise Bag;8853
+Swamp Grass;9686
+Swamplair Armor;8052
+Swampling Club;17824
+Swampling Moss;17822
+Swarmer Antenna;14076
+Sweet Mangonaise Elixir;11588
+Sweet Smelling Bait;12320
+Sweet and Sugary Substance;12143
+Sweetheart Ring;21955
+Sword;3264
+Sword Hilt;3237
+Sword Ring;3091
+Sword Tapestry;23724
+Table Lamp;2934, 2935
+Table Lamp Kit;2798
+Tactical Map;10184
+Tail of Abyssador;16229
+Tail of Corruption;11672
+Tainted Blood Essence;19133
+Tainted Glooth Capsule;21816
+Talon;3034
+Tanjis' Sight;14022
+Tapestry of Honour;14675, 14676, 14677, 14678, 14679, 14680, 25205, 25206, 25207, 25208, 25209
+Tarantula Egg;10281
+Tarnished Rhino Figurine;24387
+Tarsal Arrow;14251
+Tattered Piece of Robe;9684
+Tatty Dragon Scale Legs;24404
+Taurus Mace;7425
+Tea Cup;20094
+Tea Spoon;20189
+Tear of Daraman;3233
+Technomancer Beard;396
+Teddy Bear;2993
+Teleport Crystal;16167
+Teleportation Rod;22182
+Telescope;3484, 3485, 3486, 3487
+Telescope Kit;2799
+Tempest Shield;3442
+Templar Scytheblade;3345
+Tentacle Piece;11666
+Terra Amulet;814
+Terra Boots;813
+Terra Hood;830
+Terra Legs;812
+Terra Mantle;811
+Terra Rod;3065
+Terramite Eggs;10453
+Terramite Legs;10454
+Terramite Shell;10452
+Terran Rainbow Shield;8081
+Terrorbird Beak;10273
+Test Voodoo Doll;22863
+Test Wand of Voodoo;25795
+Thaian Sword;7391
+The Alchemists' Formulas;8818
+The Avenger;6527
+The Calamity;8104
+The Carrot of Doom;3250
+The Chiller;21350
+The Crossbow of Swordfish;22711
+The Devileye;8024
+The Dust of Arthei;8720
+The Dust of Boreth;8717
+The Dust of Lersatio;8718
+The Dust of Marziel;8719
+The Dwarven Emperor's Beard;113
+The Epic Wisdom;12809, 12810
+The Epiphany;8103
+The Famous Golden Bug;9614
+The Famous Mina Losa Painting;7871
+The Handmaiden's Protector;6539
+The Head of a Jester Doll;8779
+The Heart of the Sea;14018
+The Horn of Sundering;3252
+The Imperor's Trident;6534
+The Ironworker;8025
+The Justice Seeker;7390
+The Legs of Deathstrike;16233
+The Lethal Lissy's Shirt;6100
+The Lion's Heart;21439
+The Lower Left Part of a Map;9184
+The Lower Right Part of a Map;9183
+The Mexcalibur;19154
+The Mexcalibur (Replica);19154
+The Orb of Darkness Eternal;21804
+The Orb of Life Everchanging;21812
+The Orb of Light Undying;21805
+The Plasmother's Remains;6535
+The Rain Coat;9400, 9446
+The Ring of the Count;7924
+The Scorcher;21348
+The Shield Nevermourn;9401, 9447
+The Stomper;8101
+The Tail of the Keeper;11367
+The Top Left Part of a Map;9182
+The Top Right Part of a Map;9181
+The Torso of Deathstrike;16234
+The Torso of a Jester Doll;8780
+The Vampire Count's Medal;18936
+Theatre Script;8117
+Theodore Loveless' Key;7934
+Thermometer;19206
+Thick Fur;10307
+Thick Trunk;2352
+Thorn;9643
+Thorn Seed;24965
+Thorn Spitter;14768
+Throwing Cake;904
+Throwing Knife;3298
+Throwing Star;3287
+Thunder Hammer;3309
+Thunderheart Cuirass;22524
+Thunderheart Hauberk;22525
+Thunderheart Platemail;22526
+Thundermind Raiment;22536
+Thundersoul Tabard;22532
+Thunderstorm Rune;3202
+Tiara of Power;23474, 23475
+Tibia Coins;22118
+Tibiacity Encyclopedia;8149, 8174
+Tibiora's Box;3997, 4010
+Tiger Eye;24961
+Time Compass;21795
+Time Ring;3053
+Tin Key;12305
+Titan Axe;7413
+Titanium Token;22724
+Tomato;3596
+Tome of Knowledge;10217
+Tonguefruit;12231
+Tooth File;18924
+Tooth of Tazhadur;24940
+Torch;2920, 2921, 2922, 2923, 2924, 2925, 2926
+Torn Incantation Fragment;19146
+Torn Log Book;21378
+Torn Teddy;12617
+Torso of Abyssador;16230
+Torso of Gnomevil;16238
+Tortoise Egg;5678
+Tortoise Egg from Nargor;6125
+Tortoise Shield;6131
+Tower Shield;3428
+Toxic Tulip Seed;12233
+Toy Mouse;123
+Toy Spider;8178, 8179
+Trained Fire Bug;19124
+Translation Scroll;21467
+Trap;3482
+Trapped Bad Dream Monster;20203
+Trapped Hyaena;22663
+Trapped Lightning;19365
+Treader of Torment;22756
+Treasure Chest (Item);24861, 24862
+Treasure Chest (Ornamented);2478
+Treasure Map;5706
+Tribal Crest;10198
+Tribal Mask;3403
+Triple Bolt Crossbow;19356
+Troll Green;3741
+Trollroot;11515
+Trophy Stand;872
+Trophy of Feroxa;22104
+Trophy of Jaul;14224
+Trophy of Obujos;14222
+Trophy of Tanjis;14223
+Tropical Fried Terrorbird;9082
+Trough;2524
+Trough Kit;2792
+Trousers of the Ancients;9383
+True Heart of the Sea;14241, 14242
+Truelove Teddy;21953
+Trunk Chair Kit;2809
+Trunk Kit;2794
+Trunk Table Kit;2810
+Tulip;3668
+Tunic;8047
+Turtle Shell;5899
+Tusk;3044
+Tusk Chair;2418, 2419, 2420, 2421
+Tusk Chair Kit;2780
+Tusk Shield;3443
+Tusk Table;2348, 2349
+Tusk Table Kit;2787
+Twiceslicer;11657
+Twin Axe;3335
+Twin Hooks;10392
+Twin Sun Charm;10344
+Two Handed Sword;3265
+Ultimate Healing Rune (Item);3160
+Ultimate Health Potion;7643
+Ultimate Mana Potion;23373
+Ultimate Spirit Potion;23374
+Umbral Axe;20071
+Umbral Blade;20065
+Umbral Bow;20083
+Umbral Chopper;20074
+Umbral Crossbow;20086
+Umbral Hammer;20080
+Umbral Mace;20077
+Umbral Master Axe;20072
+Umbral Master Bow;20084
+Umbral Master Chopper;20075
+Umbral Master Crossbow;20087
+Umbral Master Hammer;20081
+Umbral Master Mace;20078
+Umbral Master Slayer;20069
+Umbral Master Spellbook;20090
+Umbral Masterblade;20066
+Umbral Slayer;20068
+Umbral Spellbook;20089
+Undead Heart;10450
+Underworld Rod;8082
+Unholy Bone;10316
+Unity Charm;10342
+Universal Tool;10027
+Unrealized Dream;20264
+Unstable Ring of Ending;20209
+Unworked Sacred Wood;11339
+Used Candelabrum;2913
+Used Globe Kit;23457
+Used Red Chair Kit;23456
+Used Rocking Horse Kit;23459
+Used Telescope Kit;23458
+V-Belt;9152
+Valentine's Cake;6392
+Valentine's Card;6538
+Valuable Vase;7932
+Vampire's Cape Chain;18927
+Vampire's Signet Ring;18935
+Vampire Doll;8191
+Vampire Dust;5905
+Vampire Lord Token;8192
+Vampire Shield;3434
+Vampire Silk Slippers;19374
+Vampire Teeth;9685
+Vampiric Crest;9041
+Vase;2876
+Veggie Casserole;9084
+Vein of Ore;16135
+Velvet Mantle;8040
+Velvet Tapestry;8923
+Venison;18995
+Venorean Cabinet Kit;17974
+Venorean Drawer Kit;17977
+Venorean Wardrobe Kit;17975
+Very Noble-Looking Watch;6091
+Very Noble-Looking Watch (Broken);6092
+Very Old Piece of Paper;9185
+Vexclaw Talon;22728
+Vial;2874
+Vial of Coloured Glooth;21188, 21189
+Vial of Elemental Water;9149
+Vial of Liquid Silver;22058
+Vial of Medusa Blood;21504
+Vial of Mushroom Distillate;21769
+Vibrant Egg;23538
+Viking Helmet;3367
+Viking Shield;3431
+Vile Axe;7388
+Violet Crystal Shard;16120
+Violet Gem;3036
+Viper Star;7366
+Visage of the End Days;22754
+Void Boots;23476, 23477
+Voltage Armor;8051
+Voluminous Piece of Cloth;12553
+Voodoo Lily Pollen;22656
+Vortex Bolt;14252
+Wailing Widow's Necklace;10412
+Waldo's Post Horn;3219
+Wall Mirror (Edged);2635
+Wall Mirror (Oval);2638
+Wall Mirror (Round);2632
+Walnut;836
+Wand of Carving;23335
+Wand of Carving (Charged);23336
+Wand of Carving (Heavily Charged);23337
+Wand of Carving (Overcharged);23338
+Wand of Cosmic Energy;3073
+Wand of Darkness;25760
+Wand of Decay;3072
+Wand of Defiance;16096
+Wand of Dimensions;12603
+Wand of Draconia;8093
+Wand of Dragonbreath;3075
+Wand of Everblazing;16115
+Wand of Inferno;3071
+Wand of Mayhem;23231
+Wand of Mayhem (Charged);23241
+Wand of Mayhem (Heavily Charged);23251
+Wand of Mayhem (Overcharged);23261
+Wand of Remedy;23295
+Wand of Remedy (Charged);23296
+Wand of Remedy (Heavily Charged);23297
+Wand of Remedy (Overcharged);23298
+Wand of Starstorm;8092
+Wand of Voodoo;8094
+Wand of Vortex;3074
+War Axe;3342
+War Backpack;21445
+War Crystal;9654
+War Drum;2966
+War Hammer;3279
+War Horn;2958
+Warlord Sword;3296
+Warmaster's Wristguards;10405
+Warrior's Axe;14040
+Warrior's Shield;14042
+Warrior Helmet;3369
+Warsinger Bow;8026
+Warwolf Fur;10318
+Waspoid Claw;14080
+Waspoid Wing;14081
+Watch;2906
+Waterball;893
+Watering Can;650
+Waterskin;2901
+Weapon Matrix Crystal;8828
+Weapon Rack;6109, 6110
+Weapon Rack Kit;6115
+Weapons Crate;405
+Weapons Crate (Set);10247
+Weaver's Wandtip;10397
+Wedding Outfit Box;9586
+Wedding Ring;3004
+Werebadger Claws;22051
+Werebadger Skull;22055
+Werebadger Trophy;22101
+Werebear Fur;22057
+Werebear Skull;22056
+Werebear Trophy;22103
+Wereboar Hooves;22053
+Wereboar Loincloth;22087
+Wereboar Trophy;22102
+Wereboar Tusks;22054
+Werewolf Amulet;22060
+Werewolf Fangs;22052
+Werewolf Fur;10317
+Werewolf Helmet;22062
+Whacking Driller of Fate;9598
+Whacking Driller of Fate (Jammed);9599
+Whinona;12575, 12579
+Whisper Moss;4827
+White Bishop Token;3538
+White Castle Token;3536
+White Deer Antlers;12544
+White Deer Skin;12545
+White Dress;3569
+White Flower;102
+White King Token;3540
+White Knight Token;3537
+White Mushroom;3723
+White Pawn Token;3535
+White Pearl;3026
+White Piece of Cloth;5909
+White Queen Token;3539
+White Tapestry;2667
+White Token;3534
+Whoopee Cushion;121
+Widow's Mandibles;10411
+Wild Growth Rune;3156
+Wimp Tooth Chain;17847
+Windborn Colossus Armor;8055
+Winged Helmet;3368
+Winged Tail;10313
+Winning Lottery Ticket;5958
+Winter Wolf Fur;10295
+Witch Broom;9652
+Witch Hat;9653
+Witches' Cap Spot;4829
+Witchesbroom;3211
+Witchhunter's Coat;7993
+Witherblossom;12235
+Wolf Backpack;22084
+Wolf Paw;5897
+Wolf Tooth Chain;3012
+Wolf Tooth Chain (Ceiron);5940
+Wolf Trophy;7394
+Wonder Glue;9170
+Wood;5901
+Wood Cape;3575
+Wood Mushroom;3727
+Wooden Chair;2358, 2359, 2360, 2361
+Wooden Chair Kit;2777
+Wooden Doll;2989
+Wooden Flute;2948
+Wooden Hammer;3459
+Wooden Key;2968
+Wooden Shield;3412
+Wooden Spoon;3470
+Wooden Stake;5941
+Wooden Sword;12673
+Wooden Ties;9114
+Wooden Whistle;5786
+Wool;10319
+Worm;3492
+Worm Punisher;9234
+Worm Queen Tooth;9239
+Worn Firewalker Boots;9020
+Worn Soft Boots;6530
+Wrinkled Parchment;4846
+Wyrm Scale;9665
+Wyvern Fang;7408
+Wyvern Talisman;9644
+X Tic-Tac-Toe Token;3547
+Xodet's First Wand;9187
+Yalahari Armor;8862
+Yalahari Figurine;9068
+Yalahari Gear Wheel;9153
+Yalahari Leg Piece;8863
+Yalahari Mask;8864
+Yellow Backpack;2866
+Yellow Bag;2858
+Yellow Bed Kit;832
+Yellow Gem;3037
+Yellow Piece of Cloth;5914
+Yellow Pillow (Supersoft);900
+Yellow Powder;6547
+Yellow Rose;3660
+Yellow Tapestry;2650
+Yellowed Bone;19090
+Yielocks;12805
+Yielowax;12742
+Yol's Bow;8028
+Yummy Gummy Worm;8177
+Zaoan Armor;10384
+Zaoan Chess Box;18339
+Zaoan Halberd;10406
+Zaoan Helmet;10385
+Zaoan Legs;10387
+Zaoan Robe;10439
+Zaoan Shoes;10386
+Zaoan Sword;10390
+Zaogun Flag;10413
+Zaogun Shoulderplates;10414
